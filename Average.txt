@@ -1,0 +1,2315 @@
+aback | 5 | crane -> slack -> quack -> whack -> aback
+abase | 4 | crane -> slate -> phase -> abase
+abate | 4 | crane -> slate -> ovate -> abate
+abbey | 4 | crane -> steal -> media -> abbey
+abbot | 4 | crane -> salty -> about -> abbot
+abhor | 4 | crane -> party -> sugar -> abhor
+abide | 4 | crane -> maple -> abode -> abide
+abled | 3 | crane -> steal -> abled
+abode | 3 | crane -> maple -> abode
+abort | 4 | crane -> party -> ultra -> abort
+about | 3 | crane -> salty -> about
+above | 4 | crane -> maple -> abode -> above
+abuse | 4 | crane -> maple -> abode -> abuse
+abyss | 3 | crane -> salty -> abyss
+acorn | 2 | crane -> acorn
+acrid | 3 | crane -> scram -> acrid
+actor | 3 | crane -> scram -> actor
+acute | 2 | crane -> acute
+adage | 4 | crane -> slate -> image -> adage
+adapt | 3 | crane -> shalt -> adapt
+adept | 3 | crane -> steal -> adept
+admin | 3 | crane -> tangy -> admin
+admit | 4 | crane -> salty -> about -> admit
+adobe | 4 | crane -> maple -> abode -> adobe
+adopt | 4 | crane -> salty -> about -> adopt
+adore | 3 | crane -> barge -> adore
+adorn | 3 | crane -> manor -> adorn
+adult | 4 | crane -> salty -> bloat -> adult
+affix | 4 | crane -> salty -> avoid -> affix
+afire | 4 | crane -> barge -> adore -> afire
+afoot | 5 | crane -> salty -> about -> adopt -> afoot
+afoul | 3 | crane -> salty -> afoul
+after | 3 | crane -> later -> after
+again | 3 | crane -> slain -> again
+agape | 4 | crane -> slate -> image -> agape
+agate | 5 | crane -> slate -> ovate -> abate -> agate
+agent | 2 | crane -> agent
+agile | 3 | crane -> maple -> agile
+aging | 5 | crane -> gaunt -> along -> aping -> aging
+aglow | 3 | crane -> salty -> aglow
+agony | 4 | crane -> gaunt -> along -> agony
+agora | 4 | crane -> party -> sugar -> agora
+agree | 3 | crane -> barge -> agree
+ahead | 3 | crane -> steal -> ahead
+aider | 3 | crane -> later -> aider
+aisle | 4 | crane -> maple -> agile -> aisle
+alarm | 5 | crane -> shard -> quart -> ovary -> alarm
+album | 4 | crane -> salty -> afoul -> album
+alert | 3 | crane -> later -> alert
+algae | 4 | crane -> maple -> alike -> algae
+alibi | 4 | crane -> salty -> afoul -> alibi
+alien | 3 | crane -> taken -> alien
+align | 3 | crane -> tangy -> align
+alike | 3 | crane -> maple -> alike
+alive | 4 | crane -> maple -> alike -> alive
+allay | 4 | crane -> salty -> alloy -> allay
+alley | 4 | crane -> steal -> abled -> alley
+allot | 3 | crane -> salty -> allot
+allow | 4 | crane -> salty -> aglow -> allow
+alloy | 3 | crane -> salty -> alloy
+aloft | 4 | crane -> salty -> bloat -> aloft
+alone | 2 | crane -> alone
+along | 3 | crane -> gaunt -> along
+aloof | 4 | crane -> salty -> afoul -> aloof
+aloud | 4 | crane -> salty -> afoul -> aloud
+alpha | 5 | crane -> salty -> afoul -> alibi -> alpha
+altar | 4 | crane -> party -> ultra -> altar
+alter | 3 | crane -> later -> alter
+amass | 4 | crane -> shalt -> quasi -> amass
+amaze | 4 | crane -> slate -> image -> amaze
+amber | 4 | crane -> later -> aider -> amber
+amble | 3 | crane -> maple -> amble
+amend | 3 | crane -> agent -> amend
+amiss | 3 | crane -> salty -> amiss
+amity | 3 | crane -> salty -> amity
+among | 4 | crane -> gaunt -> along -> among
+ample | 3 | crane -> maple -> ample
+amply | 3 | crane -> salty -> amply
+amuse | 3 | crane -> maple -> amuse
+angel | 3 | crane -> taken -> angel
+anger | 3 | crane -> ramen -> anger
+angle | 2 | crane -> angle
+angry | 3 | crane -> manor -> angry
+angst | 3 | crane -> tangy -> angst
+anime | 3 | crane -> angle -> anime
+ankle | 3 | crane -> angle -> ankle
+annex | 4 | crane -> taken -> angel -> annex
+annoy | 3 | crane -> tangy -> annoy
+annul | 4 | crane -> tangy -> final -> annul
+anode | 4 | crane -> angle -> anime -> anode
+antic | 3 | crane -> manic -> antic
+anvil | 4 | crane -> tangy -> admin -> anvil
+aorta | 3 | crane -> party -> aorta
+apart | 4 | crane -> shard -> quart -> apart
+aphid | 4 | crane -> salty -> avoid -> aphid
+aping | 4 | crane -> gaunt -> along -> aping
+apnea | 4 | crane -> taken -> angel -> apnea
+apple | 3 | crane -> maple -> apple
+apply | 4 | crane -> salty -> amply -> apply
+apron | 3 | crane -> manor -> apron
+aptly | 3 | crane -> salty -> aptly
+arbor | 4 | crane -> triad -> armor -> arbor
+ardor | 3 | crane -> triad -> ardor
+arena | 2 | crane -> arena
+argue | 3 | crane -> arise -> argue
+arise | 2 | crane -> arise
+armor | 3 | crane -> triad -> armor
+aroma | 4 | crane -> triad -> armor -> aroma
+arose | 3 | crane -> arise -> arose
+array | 3 | crane -> triad -> array
+arrow | 4 | crane -> triad -> armor -> arrow
+arson | 3 | crane -> groan -> arson
+artsy | 3 | crane -> triad -> artsy
+ascot | 3 | crane -> match -> ascot
+ashen | 4 | crane -> taken -> alien -> ashen
+aside | 4 | crane -> maple -> abode -> aside
+askew | 3 | crane -> steal -> askew
+assay | 3 | crane -> salty -> assay
+asset | 3 | crane -> steal -> asset
+atoll | 4 | crane -> salty -> bloat -> atoll
+atone | 3 | crane -> alone -> atone
+attic | 4 | crane -> match -> octal -> attic
+audio | 4 | crane -> salty -> avoid -> audio
+audit | 4 | crane -> salty -> about -> audit
+augur | 4 | crane -> party -> sugar -> augur
+aunty | 3 | crane -> tangy -> aunty
+avail | 5 | crane -> shalt -> plaid -> quail -> avail
+avert | 3 | crane -> later -> avert
+avian | 5 | crane -> tangy -> admin -> axion -> avian
+avoid | 3 | crane -> salty -> avoid
+await | 4 | crane -> shalt -> adapt -> await
+awake | 5 | crane -> slate -> image -> quake -> awake
+award | 5 | crane -> shard -> board -> guard -> award
+aware | 4 | crane -> blare -> share -> aware
+awash | 4 | crane -> shalt -> quash -> awash
+awful | 4 | crane -> salty -> afoul -> awful
+awoke | 4 | crane -> maple -> abode -> awoke
+axial | 4 | crane -> salty -> afoul -> axial
+axiom | 4 | crane -> salty -> avoid -> axiom
+axion | 4 | crane -> tangy -> admin -> axion
+azure | 5 | crane -> barge -> adore -> afire -> azure
+bacon | 3 | crane -> manic -> bacon
+badge | 4 | crane -> maple -> baste -> badge
+badly | 4 | crane -> salty -> gaily -> badly
+bagel | 3 | crane -> steal -> bagel
+baggy | 4 | crane -> salty -> gaudy -> baggy
+baker | 5 | crane -> later -> gayer -> wafer -> baker
+baler | 3 | crane -> later -> baler
+balmy | 3 | crane -> salty -> balmy
+banal | 4 | crane -> tangy -> banjo -> banal
+banjo | 3 | crane -> tangy -> banjo
+barge | 2 | crane -> barge
+baron | 3 | crane -> manor -> baron
+basal | 4 | crane -> salty -> basil -> basal
+basic | 3 | crane -> match -> basic
+basil | 3 | crane -> salty -> basil
+basin | 4 | crane -> tangy -> mason -> basin
+basis | 3 | crane -> salty -> basis
+baste | 3 | crane -> maple -> baste
+batch | 3 | crane -> match -> batch
+bathe | 4 | crane -> maple -> baste -> bathe
+baton | 3 | crane -> tangy -> baton
+batty | 3 | crane -> salty -> batty
+bawdy | 4 | crane -> salty -> gaudy -> bawdy
+bayou | 3 | crane -> salty -> bayou
+beach | 3 | crane -> teach -> beach
+beady | 4 | crane -> least -> heady -> beady
+beard | 3 | crane -> teary -> beard
+beast | 3 | crane -> least -> beast
+beech | 3 | crane -> belch -> beech
+beefy | 4 | crane -> spiel -> hefty -> beefy
+befit | 3 | crane -> spiel -> befit
+began | 3 | crane -> taken -> began
+begat | 3 | crane -> steal -> begat
+beget | 4 | crane -> spiel -> duvet -> beget
+begin | 3 | crane -> women -> begin
+begun | 4 | crane -> women -> begin -> begun
+being | 4 | crane -> spend -> eying -> being
+belch | 2 | crane -> belch
+belie | 4 | crane -> slide -> bilge -> belie
+belle | 4 | crane -> slide -> bugle -> belle
+belly | 4 | crane -> spiel -> below -> belly
+below | 3 | crane -> spiel -> below
+bench | 2 | crane -> bench
+beret | 4 | crane -> sower -> rivet -> beret
+berry | 5 | crane -> sower -> perky -> derby -> berry
+berth | 4 | crane -> sower -> perky -> berth
+beset | 4 | crane -> spiel -> bused -> beset
+betel | 4 | crane -> spiel -> bowel -> betel
+bevel | 5 | crane -> spiel -> bowel -> betel -> bevel
+bezel | 6 | crane -> spiel -> bowel -> betel -> bevel -> bezel
+bible | 4 | crane -> slide -> bilge -> bible
+bicep | 3 | crane -> belch -> bicep
+biddy | 4 | crane -> silky -> pithy -> biddy
+bigot | 4 | crane -> silky -> wight -> bigot
+bilge | 3 | crane -> slide -> bilge
+billy | 4 | crane -> silky -> filmy -> billy
+binge | 3 | crane -> singe -> binge
+bingo | 3 | crane -> minty -> bingo
+biome | 4 | crane -> slide -> pique -> biome
+birch | 3 | crane -> porch -> birch
+birth | 3 | crane -> forty -> birth
+bison | 3 | crane -> minty -> bison
+bitty | 4 | crane -> silky -> pithy -> bitty
+black | 3 | crane -> slack -> black
+blade | 3 | crane -> slate -> blade
+blame | 4 | crane -> slate -> blade -> blame
+bland | 4 | crane -> plank -> gland -> bland
+blank | 3 | crane -> plank -> blank
+blare | 2 | crane -> blare
+blast | 3 | crane -> shalt -> blast
+blaze | 5 | crane -> slate -> blade -> blame -> blaze
+bleak | 3 | crane -> steal -> bleak
+bleat | 3 | crane -> steal -> bleat
+bleed | 4 | crane -> spiel -> golem -> bleed
+bleep | 3 | crane -> spiel -> bleep
+blend | 3 | crane -> spend -> blend
+bless | 4 | crane -> spiel -> flesh -> bless
+blimp | 4 | crane -> silky -> built -> blimp
+blind | 3 | crane -> sling -> blind
+blink | 4 | crane -> sling -> blind -> blink
+bliss | 3 | crane -> silky -> bliss
+blitz | 4 | crane -> silky -> built -> blitz
+bloat | 3 | crane -> salty -> bloat
+block | 4 | crane -> dutch -> slick -> block
+bloke | 4 | crane -> slide -> fluke -> bloke
+blond | 4 | crane -> sling -> blunt -> blond
+blood | 5 | crane -> silky -> flout -> bloom -> blood
+bloom | 4 | crane -> silky -> flout -> bloom
+blown | 4 | crane -> minty -> shown -> blown
+bluer | 4 | crane -> sower -> filer -> bluer
+bluff | 4 | crane -> silky -> flout -> bluff
+blunt | 3 | crane -> sling -> blunt
+blurb | 4 | crane -> forty -> shirk -> blurb
+blurt | 4 | crane -> forty -> shirt -> blurt
+blush | 4 | crane -> silky -> flush -> blush
+board | 3 | crane -> shard -> board
+boast | 3 | crane -> shalt -> boast
+bobby | 6 | crane -> silky -> howdy -> pouty -> boozy -> bobby
+boney | 3 | crane -> women -> boney
+bongo | 4 | crane -> minty -> bonus -> bongo
+bonus | 3 | crane -> minty -> bonus
+booby | 6 | crane -> silky -> howdy -> pouty -> boozy -> booby
+boost | 4 | crane -> silky -> joust -> boost
+booth | 4 | crane -> silky -> mouth -> booth
+booty | 5 | crane -> silky -> howdy -> pouty -> booty
+booze | 4 | crane -> slide -> quote -> booze
+boozy | 5 | crane -> silky -> howdy -> pouty -> boozy
+borax | 4 | crane -> party -> moral -> borax
+borne | 2 | crane -> borne
+bosom | 4 | crane -> silky -> joust -> bosom
+bossy | 4 | crane -> silky -> mushy -> bossy
+botch | 4 | crane -> dutch -> pitch -> botch
+bough | 4 | crane -> silky -> mouth -> bough
+boule | 4 | crane -> slide -> bugle -> boule
+bound | 3 | crane -> sling -> bound
+bowel | 3 | crane -> spiel -> bowel
+boxer | 5 | crane -> sower -> hover -> joker -> boxer
+brace | 2 | crane -> brace
+braid | 3 | crane -> trail -> braid
+brain | 2 | crane -> brain
+brake | 3 | crane -> grade -> brake
+brand | 3 | crane -> drank -> brand
+brash | 4 | crane -> trail -> grasp -> brash
+brass | 5 | crane -> trail -> grasp -> brash -> brass
+brave | 4 | crane -> grade -> brake -> brave
+bravo | 5 | crane -> trail -> grasp -> fraud -> bravo
+brawl | 3 | crane -> trail -> brawl
+brawn | 3 | crane -> brain -> brawn
+bread | 3 | crane -> tread -> bread
+break | 3 | crane -> tread -> break
+breed | 3 | crane -> fried -> breed
+briar | 3 | crane -> triad -> briar
+bribe | 4 | crane -> prove -> tribe -> bribe
+brick | 3 | crane -> trick -> brick
+bride | 4 | crane -> prove -> tribe -> bride
+brief | 3 | crane -> fried -> brief
+brine | 3 | crane -> prone -> brine
+bring | 2 | crane -> bring
+brink | 3 | crane -> bring -> brink
+briny | 4 | crane -> bring -> brink -> briny
+brisk | 3 | crane -> frost -> brisk
+broad | 3 | crane -> triad -> broad
+broil | 4 | crane -> frost -> prowl -> broil
+broke | 3 | crane -> prove -> broke
+brood | 5 | crane -> frost -> prowl -> broom -> brood
+brook | 6 | crane -> frost -> prowl -> broom -> brood -> brook
+broom | 4 | crane -> frost -> prowl -> broom
+broth | 3 | crane -> frost -> broth
+brown | 3 | crane -> grown -> brown
+brunt | 3 | crane -> bring -> brunt
+brush | 4 | crane -> frost -> brisk -> brush
+brute | 4 | crane -> prove -> tribe -> brute
+buddy | 4 | crane -> silky -> howdy -> buddy
+budge | 3 | crane -> slide -> budge
+buggy | 5 | crane -> silky -> howdy -> jumpy -> buggy
+bugle | 3 | crane -> slide -> bugle
+build | 4 | crane -> silky -> built -> build
+built | 3 | crane -> silky -> built
+bulge | 4 | crane -> slide -> bugle -> bulge
+bulky | 3 | crane -> silky -> bulky
+bully | 5 | crane -> silky -> moldy -> pulpy -> bully
+bunch | 3 | crane -> lunch -> bunch
+bunny | 4 | crane -> sling -> bound -> bunny
+burly | 3 | crane -> forty -> burly
+burnt | 3 | crane -> horny -> burnt
+burst | 4 | crane -> forty -> strip -> burst
+bused | 3 | crane -> spiel -> bused
+bushy | 4 | crane -> silky -> mushy -> bushy
+butch | 3 | crane -> dutch -> butch
+butte | 4 | crane -> slide -> quote -> butte
+buxom | 5 | crane -> silky -> mouth -> gumbo -> buxom
+buyer | 5 | crane -> sower -> filer -> tuber -> buyer
+bylaw | 3 | crane -> salty -> bylaw
+cabal | 3 | crane -> cavil -> cabal
+cabby | 4 | crane -> cavil -> caput -> cabby
+cabin | 3 | crane -> candy -> cabin
+cable | 3 | crane -> caste -> cable
+cacao | 5 | crane -> cavil -> caput -> cabby -> cacao
+cache | 4 | crane -> caste -> cable -> cache
+cacti | 3 | crane -> cavil -> cacti
+caddy | 5 | crane -> cavil -> caput -> cabby -> caddy
+cadet | 2 | crane -> cadet
+cagey | 4 | crane -> cadet -> camel -> cagey
+cairn | 2 | crane -> cairn
+camel | 3 | crane -> cadet -> camel
+cameo | 4 | crane -> cadet -> camel -> cameo
+canal | 3 | crane -> candy -> canal
+candy | 2 | crane -> candy
+canny | 3 | crane -> china -> canny
+canoe | 2 | crane -> canoe
+canon | 4 | crane -> candy -> canal -> canon
+caper | 2 | crane -> caper
+caput | 3 | crane -> cavil -> caput
+carat | 3 | crane -> carol -> carat
+cargo | 3 | crane -> carol -> cargo
+carol | 2 | crane -> carol
+carry | 4 | crane -> carol -> carat -> carry
+carve | 2 | crane -> carve
+caste | 2 | crane -> caste
+catch | 5 | crane -> cavil -> caput -> catty -> catch
+cater | 3 | crane -> caper -> cater
+catty | 4 | crane -> cavil -> caput -> catty
+caulk | 3 | crane -> cavil -> caulk
+cause | 3 | crane -> caste -> cause
+cavil | 2 | crane -> cavil
+cease | 3 | crane -> chase -> cease
+cedar | 3 | crane -> caper -> cedar
+cello | 4 | crane -> chest -> clued -> cello
+chafe | 3 | crane -> chase -> chafe
+chaff | 4 | crane -> clash -> champ -> chaff
+chain | 2 | crane -> chain
+chair | 3 | crane -> chard -> chair
+chalk | 3 | crane -> clash -> chalk
+champ | 3 | crane -> clash -> champ
+chant | 3 | crane -> clang -> chant
+chaos | 3 | crane -> clash -> chaos
+chard | 2 | crane -> chard
+charm | 3 | crane -> chard -> charm
+chart | 4 | crane -> chard -> charm -> chart
+chase | 2 | crane -> chase
+chasm | 3 | crane -> clash -> chasm
+cheap | 3 | crane -> cadet -> cheap
+cheat | 3 | crane -> cadet -> cheat
+check | 3 | crane -> chest -> check
+cheek | 4 | crane -> chest -> check -> cheek
+cheer | 5 | crane -> cover -> cider -> cyber -> cheer
+chess | 3 | crane -> chest -> chess
+chest | 2 | crane -> chest
+chick | 3 | crane -> climb -> chick
+chide | 3 | crane -> chose -> chide
+chief | 3 | crane -> chest -> chief
+child | 3 | crane -> climb -> child
+chili | 4 | crane -> climb -> child -> chili
+chill | 5 | crane -> climb -> child -> chili -> chill
+chime | 4 | crane -> chose -> chide -> chime
+china | 2 | crane -> china
+chirp | 4 | crane -> curly -> chord -> chirp
+chock | 4 | crane -> climb -> cough -> chock
+choir | 4 | crane -> curly -> chord -> choir
+choke | 3 | crane -> chose -> choke
+chord | 3 | crane -> curly -> chord
+chore | 3 | crane -> curse -> chore
+chose | 2 | crane -> chose
+chuck | 4 | crane -> climb -> cough -> chuck
+chump | 3 | crane -> climb -> chump
+chunk | 3 | crane -> clung -> chunk
+churn | 2 | crane -> churn
+chute | 4 | crane -> chose -> chide -> chute
+cider | 3 | crane -> cover -> cider
+cigar | 3 | crane -> carol -> cigar
+cinch | 3 | crane -> cumin -> cinch
+circa | 3 | crane -> carol -> circa
+civic | 3 | crane -> climb -> civic
+civil | 3 | crane -> climb -> civil
+clack | 4 | crane -> clash -> claim -> clack
+claim | 3 | crane -> clash -> claim
+clamp | 4 | crane -> clash -> claim -> clamp
+clang | 2 | crane -> clang
+clank | 3 | crane -> clang -> clank
+clash | 2 | crane -> clash
+clasp | 3 | crane -> clash -> clasp
+class | 4 | crane -> clash -> clasp -> class
+clean | 2 | crane -> clean
+clear | 4 | crane -> caper -> cedar -> clear
+cleat | 4 | crane -> cadet -> cheat -> cleat
+cleft | 3 | crane -> chest -> cleft
+clerk | 3 | crane -> cover -> clerk
+click | 4 | crane -> climb -> cliff -> click
+cliff | 3 | crane -> climb -> cliff
+climb | 2 | crane -> climb
+cling | 3 | crane -> clung -> cling
+clink | 3 | crane -> clung -> clink
+cloak | 3 | crane -> cavil -> cloak
+clock | 4 | crane -> climb -> clout -> clock
+clone | 2 | crane -> clone
+close | 3 | crane -> chose -> close
+cloth | 4 | crane -> climb -> clout -> cloth
+cloud | 4 | crane -> climb -> clout -> cloud
+clout | 3 | crane -> climb -> clout
+clove | 3 | crane -> chose -> clove
+clown | 3 | crane -> cumin -> clown
+cluck | 4 | crane -> climb -> clout -> cluck
+clued | 3 | crane -> chest -> clued
+clump | 3 | crane -> climb -> clump
+clung | 2 | crane -> clung
+coach | 3 | crane -> clash -> coach
+coast | 3 | crane -> clash -> coast
+cobra | 3 | crane -> carol -> cobra
+cocoa | 4 | crane -> cavil -> comma -> cocoa
+colon | 4 | crane -> cumin -> clown -> colon
+color | 3 | crane -> curly -> color
+comet | 3 | crane -> chest -> comet
+comfy | 3 | crane -> climb -> comfy
+comic | 3 | crane -> climb -> comic
+comma | 3 | crane -> cavil -> comma
+conch | 4 | crane -> cumin -> condo -> conch
+condo | 3 | crane -> cumin -> condo
+conic | 3 | crane -> cumin -> conic
+copse | 3 | crane -> chose -> copse
+coral | 3 | crane -> carol -> coral
+corer | 4 | crane -> cover -> cower -> corer
+corny | 2 | crane -> corny
+couch | 4 | crane -> climb -> cough -> couch
+cough | 3 | crane -> climb -> cough
+could | 3 | crane -> climb -> could
+count | 4 | crane -> clung -> chunk -> count
+coupe | 3 | crane -> chose -> coupe
+court | 3 | crane -> curly -> court
+coven | 2 | crane -> coven
+cover | 2 | crane -> cover
+covet | 4 | crane -> chest -> comet -> covet
+covey | 4 | crane -> chest -> clued -> covey
+cower | 3 | crane -> cover -> cower
+coyly | 4 | crane -> climb -> could -> coyly
+crack | 7 | crane -> crash -> craft -> cramp -> crawl -> crazy -> crack
+craft | 3 | crane -> crash -> craft
+cramp | 4 | crane -> crash -> craft -> cramp
+crane | 1 | crane
+crank | 2 | crane -> crank
+crash | 2 | crane -> crash
+crass | 3 | crane -> crash -> crass
+crate | 2 | crane -> crate
+crave | 3 | crane -> crate -> crave
+crawl | 5 | crane -> crash -> craft -> cramp -> crawl
+craze | 4 | crane -> crate -> crave -> craze
+crazy | 6 | crane -> crash -> craft -> cramp -> crawl -> crazy
+creak | 2 | crane -> creak
+cream | 3 | crane -> creak -> cream
+credo | 3 | crane -> crest -> credo
+creed | 4 | crane -> crest -> credo -> creed
+creek | 4 | crane -> crest -> credo -> creek
+creep | 5 | crane -> crest -> credo -> creek -> creep
+creme | 3 | crane -> crime -> creme
+crepe | 4 | crane -> crime -> crude -> crepe
+crept | 3 | crane -> crest -> crept
+cress | 3 | crane -> crest -> cress
+crest | 2 | crane -> crest
+crick | 3 | crane -> croup -> crick
+cried | 3 | crane -> crest -> cried
+crier | 4 | crane -> crest -> cried -> crier
+crime | 2 | crane -> crime
+crimp | 3 | crane -> croup -> crimp
+crisp | 4 | crane -> croup -> crimp -> crisp
+croak | 2 | crane -> croak
+crock | 4 | crane -> croup -> crowd -> crock
+crone | 2 | crane -> crone
+crony | 2 | crane -> crony
+crook | 5 | crane -> croup -> crowd -> crock -> crook
+cross | 5 | crane -> croup -> crowd -> crock -> cross
+croup | 2 | crane -> croup
+crowd | 3 | crane -> croup -> crowd
+crown | 2 | crane -> crown
+crude | 3 | crane -> crime -> crude
+cruel | 4 | crane -> crest -> cried -> cruel
+crumb | 4 | crane -> croup -> crush -> crumb
+crump | 3 | crane -> croup -> crump
+crush | 3 | crane -> croup -> crush
+crust | 4 | crane -> croup -> crush -> crust
+crypt | 3 | crane -> croup -> crypt
+cubic | 3 | crane -> climb -> cubic
+cumin | 2 | crane -> cumin
+curio | 3 | crane -> curly -> curio
+curly | 2 | crane -> curly
+curry | 4 | crane -> curly -> curvy -> curry
+curse | 2 | crane -> curse
+curve | 3 | crane -> curse -> curve
+curvy | 3 | crane -> curly -> curvy
+cutie | 3 | crane -> chose -> cutie
+cyber | 4 | crane -> cover -> cider -> cyber
+cycle | 4 | crane -> chose -> cutie -> cycle
+cynic | 4 | crane -> cumin -> conic -> cynic
+daddy | 6 | crane -> salty -> gaudy -> bawdy -> paddy -> daddy
+daily | 4 | crane -> salty -> gaily -> daily
+dairy | 3 | crane -> party -> dairy
+daisy | 3 | crane -> salty -> daisy
+dally | 4 | crane -> salty -> balmy -> dally
+dance | 2 | crane -> dance
+dandy | 5 | crane -> tangy -> sandy -> handy -> dandy
+datum | 4 | crane -> salty -> patio -> datum
+daunt | 3 | crane -> gaunt -> daunt
+dealt | 3 | crane -> least -> dealt
+death | 3 | crane -> least -> death
+debar | 4 | crane -> later -> shear -> debar
+debit | 4 | crane -> spiel -> befit -> debit
+debug | 4 | crane -> spiel -> hefty -> debug
+debut | 4 | crane -> spiel -> hefty -> debut
+decal | 2 | crane -> decal
+decay | 3 | crane -> decal -> decay
+decor | 3 | crane -> recut -> decor
+decoy | 3 | crane -> belch -> decoy
+decry | 4 | crane -> recut -> decor -> decry
+defer | 4 | crane -> sower -> filer -> defer
+deign | 4 | crane -> women -> begin -> deign
+deity | 3 | crane -> spiel -> deity
+delay | 3 | crane -> steal -> delay
+delta | 3 | crane -> steal -> delta
+delve | 4 | crane -> slide -> lodge -> delve
+demon | 3 | crane -> women -> demon
+demur | 3 | crane -> sower -> demur
+denim | 3 | crane -> women -> denim
+dense | 3 | crane -> singe -> dense
+depot | 4 | crane -> spiel -> depth -> depot
+depth | 3 | crane -> spiel -> depth
+derby | 4 | crane -> sower -> perky -> derby
+deter | 5 | crane -> sower -> filer -> tuber -> deter
+detox | 5 | crane -> spiel -> hefty -> debut -> detox
+deuce | 3 | crane -> spice -> deuce
+devil | 3 | crane -> spiel -> devil
+diary | 3 | crane -> shard -> diary
+dicey | 3 | crane -> belch -> dicey
+digit | 5 | crane -> silky -> wight -> bigot -> digit
+dilly | 5 | crane -> silky -> filmy -> billy -> dilly
+dimly | 3 | crane -> silky -> dimly
+diner | 3 | crane -> liner -> diner
+dingo | 4 | crane -> minty -> bingo -> dingo
+dingy | 4 | crane -> minty -> pinky -> dingy
+diode | 3 | crane -> slide -> diode
+dirge | 4 | crane -> surge -> forge -> dirge
+dirty | 3 | crane -> forty -> dirty
+disco | 3 | crane -> dutch -> disco
+ditch | 3 | crane -> dutch -> ditch
+ditto | 4 | crane -> silky -> wight -> ditto
+ditty | 5 | crane -> silky -> pithy -> bitty -> ditty
+diver | 5 | crane -> sower -> filer -> viper -> diver
+dizzy | 5 | crane -> silky -> pithy -> biddy -> dizzy
+dodge | 4 | crane -> slide -> budge -> dodge
+dodgy | 4 | crane -> silky -> howdy -> dodgy
+dogma | 4 | crane -> salty -> avoid -> dogma
+doing | 4 | crane -> sling -> dying -> doing
+dolly | 4 | crane -> silky -> moldy -> dolly
+donor | 4 | crane -> mourn -> north -> donor
+donut | 3 | crane -> minty -> donut
+dopey | 3 | crane -> spiel -> dopey
+doubt | 4 | crane -> silky -> mouth -> doubt
+dough | 5 | crane -> silky -> mouth -> bough -> dough
+dowdy | 4 | crane -> silky -> howdy -> dowdy
+dowel | 4 | crane -> spiel -> bowel -> dowel
+downy | 4 | crane -> sling -> bound -> downy
+dowry | 4 | crane -> forty -> rowdy -> dowry
+dozen | 3 | crane -> women -> dozen
+draft | 3 | crane -> trail -> draft
+drain | 3 | crane -> brain -> drain
+drake | 3 | crane -> grade -> drake
+drama | 5 | crane -> trail -> grasp -> fraud -> drama
+drank | 2 | crane -> drank
+drape | 4 | crane -> grade -> drake -> drape
+drawl | 4 | crane -> trail -> brawl -> drawl
+drawn | 3 | crane -> brain -> drawn
+dread | 4 | crane -> tread -> bread -> dread
+dream | 3 | crane -> tread -> dream
+dress | 3 | crane -> fried -> dress
+dried | 5 | crane -> fried -> pried -> tried -> dried
+drier | 3 | crane -> fried -> drier
+drift | 3 | crane -> frost -> drift
+drill | 4 | crane -> frost -> grimy -> drill
+drink | 3 | crane -> bring -> drink
+drive | 3 | crane -> prove -> drive
+droit | 4 | crane -> frost -> grout -> droit
+droll | 5 | crane -> frost -> prowl -> broil -> droll
+drone | 3 | crane -> prone -> drone
+drool | 6 | crane -> frost -> prowl -> broil -> droll -> drool
+droop | 5 | crane -> frost -> prowl -> group -> droop
+dross | 3 | crane -> frost -> dross
+drove | 3 | crane -> prove -> drove
+drown | 4 | crane -> grown -> brown -> drown
+druid | 4 | crane -> frost -> grimy -> druid
+drunk | 3 | crane -> bring -> drunk
+dryer | 3 | crane -> fried -> dryer
+dryly | 4 | crane -> frost -> grimy -> dryly
+duchy | 3 | crane -> dutch -> duchy
+dully | 4 | crane -> silky -> moldy -> dully
+dummy | 5 | crane -> silky -> howdy -> dumpy -> dummy
+dumpy | 4 | crane -> silky -> howdy -> dumpy
+dunce | 3 | crane -> mince -> dunce
+dusky | 3 | crane -> silky -> dusky
+dusty | 4 | crane -> silky -> mushy -> dusty
+dutch | 2 | crane -> dutch
+duvet | 3 | crane -> spiel -> duvet
+dwarf | 4 | crane -> shard -> diary -> dwarf
+dwell | 4 | crane -> spiel -> extol -> dwell
+dwelt | 4 | crane -> spiel -> below -> dwelt
+dying | 3 | crane -> sling -> dying
+eager | 5 | crane -> later -> gayer -> wager -> eager
+eagle | 4 | crane -> maple -> fable -> eagle
+early | 3 | crane -> later -> early
+earth | 3 | crane -> later -> earth
+easel | 3 | crane -> steal -> easel
+eaten | 3 | crane -> taken -> eaten
+eater | 5 | crane -> later -> hater -> water -> eater
+ebony | 4 | crane -> spend -> eying -> ebony
+eclat | 3 | crane -> decal -> eclat
+edict | 3 | crane -> belch -> edict
+edify | 4 | crane -> spiel -> deity -> edify
+eerie | 4 | crane -> surge -> forte -> eerie
+egret | 5 | crane -> sower -> rivet -> beret -> egret
+eight | 4 | crane -> spiel -> befit -> eight
+eject | 4 | crane -> belch -> edict -> eject
+eking | 4 | crane -> spend -> eying -> eking
+elate | 4 | crane -> slate -> plate -> elate
+elbow | 4 | crane -> spiel -> below -> elbow
+elder | 5 | crane -> sower -> filer -> bluer -> elder
+elect | 4 | crane -> belch -> fleck -> elect
+elegy | 5 | crane -> spiel -> below -> exult -> elegy
+elfin | 4 | crane -> women -> begin -> elfin
+elide | 4 | crane -> slide -> glide -> elide
+elite | 4 | crane -> slide -> olive -> elite
+elope | 5 | crane -> slide -> fluke -> globe -> elope
+elude | 3 | crane -> slide -> elude
+email | 3 | crane -> least -> email
+embed | 5 | crane -> spiel -> duvet -> modem -> embed
+ember | 5 | crane -> sower -> filer -> tuber -> ember
+emcee | 3 | crane -> spice -> emcee
+empty | 4 | crane -> spiel -> depth -> empty
+enact | 2 | crane -> enact
+endow | 3 | crane -> women -> endow
+enema | 4 | crane -> taken -> penal -> enema
+enemy | 4 | crane -> women -> denim -> enemy
+enjoy | 3 | crane -> women -> enjoy
+ennui | 4 | crane -> women -> inept -> ennui
+ensue | 4 | crane -> singe -> noose -> ensue
+enter | 4 | crane -> liner -> under -> enter
+entry | 4 | crane -> liner -> heron -> entry
+envoy | 4 | crane -> women -> enjoy -> envoy
+epoch | 3 | crane -> belch -> epoch
+epoxy | 3 | crane -> spiel -> epoxy
+equal | 4 | crane -> steal -> medal -> equal
+equip | 4 | crane -> spiel -> tepid -> equip
+erase | 6 | crane -> grade -> brake -> frame -> irate -> erase
+erect | 3 | crane -> wreck -> erect
+erode | 6 | crane -> prove -> broke -> froze -> wrote -> erode
+error | 4 | crane -> fried -> wrest -> error
+erupt | 4 | crane -> fried -> wrest -> erupt
+essay | 3 | crane -> steal -> essay
+ester | 5 | crane -> sower -> miser -> usher -> ester
+ether | 6 | crane -> sower -> filer -> tuber -> deter -> ether
+ethic | 3 | crane -> belch -> ethic
+ethos | 5 | crane -> spiel -> guest -> zesty -> ethos
+etude | 3 | crane -> slide -> etude
+evade | 6 | crane -> slate -> image -> quake -> heave -> evade
+event | 3 | crane -> spend -> event
+every | 6 | crane -> sower -> perky -> fiery -> query -> every
+evict | 4 | crane -> belch -> edict -> evict
+evoke | 5 | crane -> slide -> quote -> booze -> evoke
+exact | 3 | crane -> teach -> exact
+exalt | 3 | crane -> least -> exalt
+excel | 3 | crane -> belch -> excel
+exert | 4 | crane -> sower -> perky -> exert
+exile | 5 | crane -> slide -> guile -> while -> exile
+exist | 3 | crane -> spiel -> exist
+expel | 3 | crane -> spiel -> expel
+extol | 3 | crane -> spiel -> extol
+extra | 3 | crane -> later -> extra
+exult | 4 | crane -> spiel -> below -> exult
+eying | 3 | crane -> spend -> eying
+fable | 3 | crane -> maple -> fable
+facet | 3 | crane -> decal -> facet
+faint | 3 | crane -> gaunt -> faint
+fairy | 4 | crane -> party -> dairy -> fairy
+faith | 3 | crane -> salty -> faith
+false | 4 | crane -> maple -> halve -> false
+fancy | 3 | crane -> manic -> fancy
+fanny | 3 | crane -> gaunt -> fanny
+farce | 2 | crane -> farce
+fatal | 4 | crane -> salty -> fault -> fatal
+fatty | 4 | crane -> salty -> batty -> fatty
+fault | 3 | crane -> salty -> fault
+fauna | 3 | crane -> gaunt -> fauna
+favor | 4 | crane -> party -> labor -> favor
+feast | 4 | crane -> least -> beast -> feast
+fecal | 3 | crane -> decal -> fecal
+feign | 5 | crane -> women -> begin -> deign -> feign
+fella | 4 | crane -> steal -> abled -> fella
+felon | 3 | crane -> women -> felon
+femme | 4 | crane -> slide -> quote -> femme
+femur | 4 | crane -> sower -> demur -> femur
+fence | 4 | crane -> mince -> dunce -> fence
+feral | 4 | crane -> later -> regal -> feral
+ferry | 5 | crane -> sower -> perky -> derby -> ferry
+fetal | 3 | crane -> steal -> fetal
+fetch | 3 | crane -> belch -> fetch
+fetid | 4 | crane -> spiel -> befit -> fetid
+fetus | 4 | crane -> spiel -> guest -> fetus
+fever | 4 | crane -> sower -> filer -> fever
+fewer | 3 | crane -> sower -> fewer
+fiber | 4 | crane -> sower -> filer -> fiber
+fibre | 3 | crane -> surge -> fibre
+ficus | 4 | crane -> dutch -> focus -> ficus
+field | 3 | crane -> spiel -> field
+fiend | 4 | crane -> spend -> blend -> fiend
+fiery | 4 | crane -> sower -> perky -> fiery
+fifth | 4 | crane -> silky -> wight -> fifth
+fifty | 4 | crane -> silky -> pithy -> fifty
+fight | 4 | crane -> silky -> wight -> fight
+filer | 3 | crane -> sower -> filer
+filet | 3 | crane -> spiel -> filet
+filly | 4 | crane -> silky -> filmy -> filly
+filmy | 3 | crane -> silky -> filmy
+filth | 3 | crane -> silky -> filth
+final | 3 | crane -> tangy -> final
+finch | 3 | crane -> lunch -> finch
+finer | 4 | crane -> liner -> diner -> finer
+first | 3 | crane -> forty -> first
+fishy | 4 | crane -> silky -> gipsy -> fishy
+fixer | 5 | crane -> sower -> filer -> fiber -> fixer
+fizzy | 5 | crane -> silky -> pithy -> biddy -> fizzy
+fjord | 4 | crane -> forty -> flour -> fjord
+flack | 4 | crane -> slack -> black -> flack
+flail | 4 | crane -> shalt -> plaid -> flail
+flair | 3 | crane -> shard -> flair
+flake | 4 | crane -> slate -> blade -> flake
+flaky | 4 | crane -> shalt -> plaid -> flaky
+flame | 5 | crane -> slate -> blade -> flake -> flame
+flank | 4 | crane -> plank -> blank -> flank
+flare | 3 | crane -> blare -> flare
+flash | 3 | crane -> shalt -> flash
+flask | 3 | crane -> shalt -> flask
+fleck | 3 | crane -> belch -> fleck
+fleet | 5 | crane -> spiel -> golem -> bleed -> fleet
+flesh | 3 | crane -> spiel -> flesh
+flick | 4 | crane -> dutch -> slick -> flick
+flier | 4 | crane -> sower -> filer -> flier
+fling | 3 | crane -> sling -> fling
+flint | 4 | crane -> sling -> blind -> flint
+flirt | 3 | crane -> forty -> flirt
+float | 4 | crane -> salty -> bloat -> float
+flock | 5 | crane -> dutch -> slick -> block -> flock
+flood | 4 | crane -> silky -> flout -> flood
+floor | 4 | crane -> forty -> flour -> floor
+flora | 4 | crane -> party -> sugar -> flora
+floss | 4 | crane -> silky -> flush -> floss
+flour | 3 | crane -> forty -> flour
+flout | 3 | crane -> silky -> flout
+flown | 5 | crane -> minty -> shown -> blown -> flown
+fluff | 4 | crane -> silky -> flout -> fluff
+fluid | 4 | crane -> silky -> built -> fluid
+fluke | 3 | crane -> slide -> fluke
+flume | 4 | crane -> slide -> fluke -> flume
+flung | 3 | crane -> sling -> flung
+flunk | 4 | crane -> sling -> blunt -> flunk
+flush | 3 | crane -> silky -> flush
+flute | 5 | crane -> slide -> fluke -> flume -> flute
+flyer | 4 | crane -> sower -> filer -> flyer
+foamy | 3 | crane -> shalt -> foamy
+focal | 3 | crane -> match -> focal
+focus | 3 | crane -> dutch -> focus
+foggy | 6 | crane -> silky -> howdy -> pouty -> boozy -> foggy
+foist | 3 | crane -> silky -> foist
+folio | 4 | crane -> silky -> tulip -> folio
+folly | 4 | crane -> silky -> moldy -> folly
+foray | 3 | crane -> party -> foray
+force | 3 | crane -> score -> force
+forge | 3 | crane -> surge -> forge
+forgo | 4 | crane -> forty -> forum -> forgo
+forte | 3 | crane -> surge -> forte
+forth | 3 | crane -> forty -> forth
+forty | 2 | crane -> forty
+forum | 3 | crane -> forty -> forum
+found | 4 | crane -> sling -> bound -> found
+foyer | 6 | crane -> sower -> hover -> joker -> boxer -> foyer
+frail | 3 | crane -> trail -> frail
+frame | 4 | crane -> grade -> brake -> frame
+frank | 3 | crane -> drank -> frank
+fraud | 4 | crane -> trail -> grasp -> fraud
+freak | 4 | crane -> tread -> break -> freak
+freed | 3 | crane -> fried -> freed
+freer | 3 | crane -> fried -> freer
+fresh | 3 | crane -> fried -> fresh
+friar | 4 | crane -> triad -> briar -> friar
+fried | 2 | crane -> fried
+frill | 3 | crane -> frost -> frill
+frisk | 3 | crane -> frost -> frisk
+fritz | 3 | crane -> frost -> fritz
+frock | 3 | crane -> trick -> frock
+frond | 4 | crane -> bring -> drunk -> frond
+front | 4 | crane -> bring -> drunk -> front
+frost | 2 | crane -> frost
+froth | 3 | crane -> frost -> froth
+frown | 5 | crane -> grown -> brown -> drown -> frown
+froze | 4 | crane -> prove -> broke -> froze
+fruit | 3 | crane -> frost -> fruit
+fudge | 4 | crane -> slide -> budge -> fudge
+fugue | 4 | crane -> slide -> quote -> fugue
+fully | 6 | crane -> silky -> moldy -> pulpy -> bully -> fully
+fungi | 3 | crane -> minty -> fungi
+funky | 3 | crane -> minty -> funky
+funny | 4 | crane -> sling -> bound -> funny
+furor | 3 | crane -> forty -> furor
+furry | 3 | crane -> forty -> furry
+fussy | 5 | crane -> silky -> mushy -> dusty -> fussy
+fuzzy | 6 | crane -> silky -> howdy -> jumpy -> buggy -> fuzzy
+gaffe | 5 | crane -> maple -> baste -> gauze -> gaffe
+gaily | 3 | crane -> salty -> gaily
+gamer | 4 | crane -> later -> gayer -> gamer
+gamma | 5 | crane -> salty -> vapid -> mambo -> gamma
+gamut | 4 | crane -> salty -> patio -> gamut
+gassy | 4 | crane -> salty -> daisy -> gassy
+gaudy | 3 | crane -> salty -> gaudy
+gauge | 5 | crane -> maple -> baste -> gauze -> gauge
+gaunt | 2 | crane -> gaunt
+gauze | 4 | crane -> maple -> baste -> gauze
+gavel | 4 | crane -> steal -> bagel -> gavel
+gawky | 4 | crane -> salty -> gaudy -> gawky
+gayer | 3 | crane -> later -> gayer
+gayly | 4 | crane -> salty -> gaily -> gayly
+gazer | 5 | crane -> later -> gayer -> gamer -> gazer
+gecko | 4 | crane -> belch -> decoy -> gecko
+geeky | 4 | crane -> spiel -> hefty -> geeky
+geese | 5 | crane -> slide -> mouse -> these -> geese
+genie | 3 | crane -> singe -> genie
+genre | 3 | crane -> nurse -> genre
+ghost | 4 | crane -> silky -> joust -> ghost
+ghoul | 4 | crane -> silky -> flout -> ghoul
+giant | 3 | crane -> plank -> giant
+giddy | 5 | crane -> silky -> pithy -> biddy -> giddy
+gipsy | 3 | crane -> silky -> gipsy
+girly | 4 | crane -> forty -> burly -> girly
+girth | 4 | crane -> forty -> birth -> girth
+given | 3 | crane -> women -> given
+giver | 6 | crane -> sower -> filer -> viper -> diver -> giver
+glade | 4 | crane -> slate -> blade -> glade
+gland | 3 | crane -> plank -> gland
+glare | 4 | crane -> blare -> flare -> glare
+glass | 4 | crane -> shalt -> flask -> glass
+glaze | 5 | crane -> slate -> blade -> flake -> glaze
+gleam | 4 | crane -> steal -> bleak -> gleam
+glean | 4 | crane -> taken -> began -> glean
+glide | 3 | crane -> slide -> glide
+glint | 3 | crane -> sling -> glint
+gloat | 5 | crane -> salty -> bloat -> float -> gloat
+globe | 4 | crane -> slide -> fluke -> globe
+gloom | 5 | crane -> silky -> flout -> bloom -> gloom
+glory | 3 | crane -> forty -> glory
+gloss | 4 | crane -> silky -> flush -> gloss
+glove | 5 | crane -> slide -> fluke -> globe -> glove
+glyph | 3 | crane -> silky -> glyph
+gnash | 3 | crane -> slain -> gnash
+gnome | 3 | crane -> singe -> gnome
+godly | 3 | crane -> silky -> godly
+going | 5 | crane -> sling -> dying -> owing -> going
+golem | 3 | crane -> spiel -> golem
+golly | 5 | crane -> silky -> moldy -> folly -> golly
+gonad | 3 | crane -> tangy -> gonad
+goner | 3 | crane -> liner -> goner
+goody | 4 | crane -> silky -> howdy -> goody
+gooey | 4 | crane -> spiel -> duvet -> gooey
+goofy | 6 | crane -> silky -> howdy -> pouty -> boozy -> goofy
+goose | 4 | crane -> slide -> mouse -> goose
+gorge | 4 | crane -> surge -> forge -> gorge
+gouge | 5 | crane -> slide -> quote -> vogue -> gouge
+gourd | 3 | crane -> forty -> gourd
+grace | 3 | crane -> brace -> grace
+grade | 2 | crane -> grade
+graft | 4 | crane -> trail -> draft -> graft
+grail | 4 | crane -> trail -> frail -> grail
+grain | 4 | crane -> brain -> drain -> grain
+grand | 4 | crane -> drank -> brand -> grand
+grant | 3 | crane -> drank -> grant
+grape | 3 | crane -> grade -> grape
+graph | 4 | crane -> trail -> grasp -> graph
+grasp | 3 | crane -> trail -> grasp
+grass | 4 | crane -> trail -> grasp -> grass
+grate | 4 | crane -> grade -> grape -> grate
+grave | 5 | crane -> grade -> grape -> grate -> grave
+gravy | 4 | crane -> trail -> grasp -> gravy
+graze | 6 | crane -> grade -> grape -> grate -> grave -> graze
+great | 3 | crane -> tread -> great
+greed | 4 | crane -> fried -> breed -> greed
+green | 2 | crane -> green
+greet | 4 | crane -> fried -> gruel -> greet
+grief | 4 | crane -> fried -> brief -> grief
+grill | 4 | crane -> frost -> grimy -> grill
+grime | 4 | crane -> prove -> tribe -> grime
+grimy | 3 | crane -> frost -> grimy
+grind | 3 | crane -> bring -> grind
+gripe | 3 | crane -> prove -> gripe
+groan | 2 | crane -> groan
+groin | 3 | crane -> grown -> groin
+groom | 5 | crane -> frost -> prowl -> broom -> groom
+grope | 3 | crane -> prove -> grope
+gross | 4 | crane -> frost -> dross -> gross
+group | 4 | crane -> frost -> prowl -> group
+grout | 3 | crane -> frost -> grout
+grove | 4 | crane -> prove -> drove -> grove
+growl | 4 | crane -> frost -> prowl -> growl
+grown | 2 | crane -> grown
+gruel | 3 | crane -> fried -> gruel
+gruff | 3 | crane -> frost -> gruff
+grunt | 3 | crane -> bring -> grunt
+guard | 4 | crane -> shard -> board -> guard
+guava | 4 | crane -> shalt -> foamy -> guava
+guess | 4 | crane -> spiel -> guest -> guess
+guest | 3 | crane -> spiel -> guest
+guide | 3 | crane -> slide -> guide
+guild | 4 | crane -> silky -> built -> guild
+guile | 3 | crane -> slide -> guile
+guilt | 4 | crane -> silky -> built -> guilt
+guise | 3 | crane -> slide -> guise
+gulch | 3 | crane -> dutch -> gulch
+gully | 7 | crane -> silky -> moldy -> pulpy -> bully -> fully -> gully
+gumbo | 4 | crane -> silky -> mouth -> gumbo
+gummy | 5 | crane -> silky -> howdy -> jumpy -> gummy
+guppy | 5 | crane -> silky -> howdy -> jumpy -> guppy
+gusto | 4 | crane -> silky -> joust -> gusto
+gusty | 5 | crane -> silky -> mushy -> dusty -> gusty
+gypsy | 4 | crane -> silky -> mushy -> gypsy
+habit | 4 | crane -> salty -> patio -> habit
+hairy | 5 | crane -> party -> dairy -> fairy -> hairy
+halve | 3 | crane -> maple -> halve
+handy | 4 | crane -> tangy -> sandy -> handy
+happy | 4 | crane -> salty -> gaudy -> happy
+hardy | 3 | crane -> party -> hardy
+harem | 3 | crane -> later -> harem
+harpy | 3 | crane -> party -> harpy
+harry | 4 | crane -> party -> hardy -> harry
+harsh | 4 | crane -> party -> marsh -> harsh
+haste | 4 | crane -> maple -> baste -> haste
+hasty | 3 | crane -> salty -> hasty
+hatch | 7 | crane -> match -> batch -> latch -> patch -> watch -> hatch
+hater | 3 | crane -> later -> hater
+haunt | 4 | crane -> gaunt -> daunt -> haunt
+haute | 4 | crane -> maple -> baste -> haute
+haven | 3 | crane -> taken -> haven
+havoc | 3 | crane -> match -> havoc
+hazel | 4 | crane -> steal -> bagel -> hazel
+heady | 3 | crane -> least -> heady
+heard | 4 | crane -> teary -> beard -> heard
+heart | 3 | crane -> teary -> heart
+heath | 4 | crane -> least -> death -> heath
+heave | 5 | crane -> slate -> image -> quake -> heave
+heavy | 4 | crane -> least -> heady -> heavy
+hedge | 5 | crane -> slide -> budge -> dodge -> hedge
+hefty | 3 | crane -> spiel -> hefty
+heist | 4 | crane -> spiel -> exist -> heist
+helix | 4 | crane -> spiel -> field -> helix
+hello | 4 | crane -> spiel -> below -> hello
+hence | 5 | crane -> mince -> dunce -> fence -> hence
+heron | 3 | crane -> liner -> heron
+hilly | 6 | crane -> silky -> filmy -> billy -> dilly -> hilly
+hinge | 4 | crane -> singe -> binge -> hinge
+hippo | 4 | crane -> silky -> wight -> hippo
+hippy | 4 | crane -> silky -> pithy -> hippy
+hitch | 5 | crane -> dutch -> pitch -> witch -> hitch
+hoard | 3 | crane -> shard -> hoard
+hobby | 4 | crane -> silky -> howdy -> hobby
+hoist | 4 | crane -> silky -> foist -> hoist
+holly | 6 | crane -> silky -> moldy -> folly -> golly -> holly
+homer | 4 | crane -> sower -> hover -> homer
+honey | 4 | crane -> women -> boney -> honey
+honor | 4 | crane -> mourn -> north -> honor
+horde | 4 | crane -> surge -> forte -> horde
+horny | 2 | crane -> horny
+horse | 3 | crane -> surge -> horse
+hotel | 4 | crane -> spiel -> bowel -> hotel
+hotly | 4 | crane -> silky -> godly -> hotly
+hound | 5 | crane -> sling -> bound -> found -> hound
+house | 4 | crane -> slide -> mouse -> house
+hovel | 5 | crane -> spiel -> bowel -> hotel -> hovel
+hover | 3 | crane -> sower -> hover
+howdy | 3 | crane -> silky -> howdy
+human | 4 | crane -> tangy -> admin -> human
+humid | 4 | crane -> silky -> opium -> humid
+humor | 4 | crane -> forty -> vigor -> humor
+humph | 4 | crane -> silky -> mouth -> humph
+humus | 4 | crane -> silky -> joust -> humus
+hunch | 6 | crane -> lunch -> bunch -> munch -> punch -> hunch
+hunky | 4 | crane -> minty -> funky -> hunky
+hurry | 5 | crane -> forty -> burly -> murky -> hurry
+husky | 4 | crane -> silky -> dusky -> husky
+hussy | 4 | crane -> silky -> mushy -> hussy
+hutch | 4 | crane -> dutch -> butch -> hutch
+hydro | 3 | crane -> forty -> hydro
+hyena | 3 | crane -> agent -> hyena
+hymen | 3 | crane -> women -> hymen
+hyper | 5 | crane -> sower -> filer -> tuber -> hyper
+icily | 4 | crane -> dutch -> scowl -> icily
+icing | 2 | crane -> icing
+ideal | 3 | crane -> steal -> ideal
+idiom | 4 | crane -> silky -> opium -> idiom
+idiot | 4 | crane -> silky -> opium -> idiot
+idler | 4 | crane -> sower -> filer -> idler
+idyll | 3 | crane -> silky -> idyll
+igloo | 4 | crane -> silky -> tulip -> igloo
+iliac | 4 | crane -> match -> focal -> iliac
+image | 3 | crane -> slate -> image
+imbue | 4 | crane -> slide -> pique -> imbue
+impel | 3 | crane -> spiel -> impel
+imply | 3 | crane -> silky -> imply
+inane | 3 | crane -> plane -> inane
+inbox | 4 | crane -> minty -> unzip -> inbox
+incur | 2 | crane -> incur
+index | 4 | crane -> women -> inlet -> index
+inept | 3 | crane -> women -> inept
+inert | 4 | crane -> liner -> reign -> inert
+infer | 3 | crane -> liner -> infer
+ingot | 4 | crane -> minty -> unlit -> ingot
+inlay | 3 | crane -> tangy -> inlay
+inlet | 3 | crane -> women -> inlet
+inner | 3 | crane -> liner -> inner
+input | 4 | crane -> minty -> unlit -> input
+inter | 4 | crane -> liner -> infer -> inter
+intro | 3 | crane -> mourn -> intro
+ionic | 5 | crane -> lunch -> sonic -> tonic -> ionic
+irate | 5 | crane -> grade -> brake -> frame -> irate
+irony | 3 | crane -> bring -> irony
+islet | 3 | crane -> spiel -> islet
+issue | 3 | crane -> slide -> issue
+itchy | 3 | crane -> dutch -> itchy
+ivory | 4 | crane -> forty -> glory -> ivory
+jaunt | 5 | crane -> gaunt -> daunt -> haunt -> jaunt
+jazzy | 5 | crane -> salty -> gaudy -> happy -> jazzy
+jelly | 4 | crane -> spiel -> below -> jelly
+jerky | 4 | crane -> sower -> perky -> jerky
+jetty | 4 | crane -> spiel -> hefty -> jetty
+jewel | 4 | crane -> spiel -> bowel -> jewel
+jiffy | 6 | crane -> silky -> pithy -> biddy -> fizzy -> jiffy
+joint | 3 | crane -> sling -> joint
+joist | 5 | crane -> silky -> foist -> hoist -> joist
+joker | 4 | crane -> sower -> hover -> joker
+jolly | 7 | crane -> silky -> moldy -> folly -> golly -> holly -> jolly
+joust | 3 | crane -> silky -> joust
+judge | 5 | crane -> slide -> budge -> fudge -> judge
+juice | 3 | crane -> spice -> juice
+juicy | 3 | crane -> dutch -> juicy
+jumbo | 5 | crane -> silky -> mouth -> gumbo -> jumbo
+jumpy | 4 | crane -> silky -> howdy -> jumpy
+junta | 3 | crane -> tangy -> junta
+junto | 3 | crane -> minty -> junto
+juror | 3 | crane -> forty -> juror
+kappa | 4 | crane -> salty -> vapid -> kappa
+karma | 4 | crane -> party -> marsh -> karma
+kayak | 4 | crane -> salty -> bayou -> kayak
+kebab | 3 | crane -> steal -> kebab
+khaki | 3 | crane -> shalt -> khaki
+kinky | 4 | crane -> minty -> pinky -> kinky
+kiosk | 3 | crane -> silky -> kiosk
+kitty | 3 | crane -> silky -> kitty
+knack | 3 | crane -> snack -> knack
+knave | 2 | crane -> knave
+knead | 3 | crane -> taken -> knead
+kneed | 5 | crane -> women -> inlet -> unfed -> kneed
+kneel | 4 | crane -> women -> inlet -> kneel
+knelt | 4 | crane -> women -> inept -> knelt
+knife | 4 | crane -> singe -> unite -> knife
+knock | 3 | crane -> lunch -> knock
+knoll | 4 | crane -> minty -> shown -> knoll
+known | 5 | crane -> minty -> shown -> blown -> known
+koala | 4 | crane -> shalt -> qualm -> koala
+krill | 5 | crane -> frost -> grimy -> drill -> krill
+label | 4 | crane -> steal -> bagel -> label
+labor | 3 | crane -> party -> labor
+laden | 4 | crane -> taken -> haven -> laden
+ladle | 5 | crane -> maple -> fable -> eagle -> ladle
+lager | 3 | crane -> later -> lager
+lance | 3 | crane -> dance -> lance
+lanky | 4 | crane -> tangy -> sandy -> lanky
+lapel | 5 | crane -> steal -> bagel -> hazel -> lapel
+lapse | 3 | crane -> maple -> lapse
+large | 3 | crane -> barge -> large
+larva | 4 | crane -> party -> marsh -> larva
+lasso | 4 | crane -> salty -> basil -> lasso
+latch | 4 | crane -> match -> batch -> latch
+later | 2 | crane -> later
+lathe | 4 | crane -> maple -> halve -> lathe
+latte | 4 | crane -> maple -> halve -> latte
+laugh | 3 | crane -> salty -> laugh
+layer | 4 | crane -> later -> lager -> layer
+leach | 4 | crane -> teach -> beach -> leach
+leafy | 3 | crane -> least -> leafy
+leaky | 4 | crane -> least -> leafy -> leaky
+leant | 2 | crane -> leant
+leapt | 3 | crane -> least -> leapt
+learn | 2 | crane -> learn
+lease | 3 | crane -> slate -> lease
+leash | 3 | crane -> least -> leash
+least | 2 | crane -> least
+leave | 4 | crane -> slate -> whale -> leave
+ledge | 4 | crane -> slide -> lodge -> ledge
+leech | 3 | crane -> belch -> leech
+leery | 5 | crane -> sower -> perky -> retry -> leery
+lefty | 4 | crane -> spiel -> below -> lefty
+legal | 4 | crane -> steal -> medal -> legal
+leggy | 5 | crane -> spiel -> below -> lefty -> leggy
+lemon | 4 | crane -> women -> demon -> lemon
+lemur | 5 | crane -> sower -> demur -> femur -> lemur
+leper | 5 | crane -> sower -> filer -> bluer -> leper
+level | 4 | crane -> spiel -> bowel -> level
+lever | 6 | crane -> sower -> filer -> bluer -> leper -> lever
+libel | 3 | crane -> spiel -> libel
+liege | 4 | crane -> slide -> bilge -> liege
+light | 3 | crane -> silky -> light
+liken | 4 | crane -> women -> given -> liken
+lilac | 5 | crane -> match -> focal -> iliac -> lilac
+limbo | 4 | crane -> silky -> light -> limbo
+limit | 4 | crane -> silky -> light -> limit
+linen | 5 | crane -> women -> given -> liken -> linen
+liner | 2 | crane -> liner
+lingo | 5 | crane -> minty -> bingo -> dingo -> lingo
+lipid | 5 | crane -> silky -> light -> limbo -> lipid
+lithe | 4 | crane -> slide -> bilge -> lithe
+liver | 4 | crane -> sower -> filer -> liver
+livid | 6 | crane -> silky -> light -> limbo -> lipid -> livid
+llama | 5 | crane -> shalt -> plaid -> flaky -> llama
+loamy | 4 | crane -> shalt -> plaid -> loamy
+loath | 3 | crane -> shalt -> loath
+lobby | 5 | crane -> silky -> godly -> lofty -> lobby
+local | 5 | crane -> match -> focal -> vocal -> local
+locus | 4 | crane -> dutch -> focus -> locus
+lodge | 3 | crane -> slide -> lodge
+lofty | 4 | crane -> silky -> godly -> lofty
+logic | 4 | crane -> dutch -> scowl -> logic
+login | 4 | crane -> minty -> unzip -> login
+loopy | 6 | crane -> silky -> godly -> lofty -> lobby -> loopy
+loose | 4 | crane -> slide -> louse -> loose
+lorry | 4 | crane -> forty -> wordy -> lorry
+loser | 3 | crane -> sower -> loser
+louse | 3 | crane -> slide -> louse
+lousy | 3 | crane -> silky -> lousy
+lover | 4 | crane -> sower -> hover -> lover
+lower | 3 | crane -> sower -> lower
+lowly | 5 | crane -> silky -> godly -> hotly -> lowly
+loyal | 3 | crane -> salty -> loyal
+lucid | 3 | crane -> dutch -> lucid
+lucky | 4 | crane -> dutch -> mucky -> lucky
+lumen | 4 | crane -> women -> hymen -> lumen
+lumpy | 4 | crane -> silky -> godly -> lumpy
+lunar | 3 | crane -> manor -> lunar
+lunch | 2 | crane -> lunch
+lunge | 3 | crane -> singe -> lunge
+lupus | 4 | crane -> silky -> flush -> lupus
+lurch | 4 | crane -> porch -> birch -> lurch
+lurid | 4 | crane -> forty -> shrug -> lurid
+lusty | 4 | crane -> silky -> lousy -> lusty
+lying | 3 | crane -> sling -> lying
+lymph | 4 | crane -> silky -> glyph -> lymph
+lynch | 3 | crane -> lunch -> lynch
+lyric | 4 | crane -> porch -> scrub -> lyric
+macaw | 4 | crane -> match -> magic -> macaw
+macho | 3 | crane -> match -> macho
+macro | 3 | crane -> scram -> macro
+madam | 4 | crane -> salty -> vapid -> madam
+madly | 5 | crane -> salty -> gaily -> badly -> madly
+mafia | 5 | crane -> salty -> vapid -> maxim -> mafia
+magic | 3 | crane -> match -> magic
+magma | 5 | crane -> salty -> vapid -> mambo -> magma
+maize | 3 | crane -> maple -> maize
+major | 5 | crane -> party -> labor -> favor -> major
+maker | 6 | crane -> later -> gayer -> wafer -> baker -> maker
+mambo | 4 | crane -> salty -> vapid -> mambo
+mamma | 5 | crane -> salty -> vapid -> mambo -> mamma
+mammy | 6 | crane -> salty -> gaudy -> happy -> jazzy -> mammy
+manga | 4 | crane -> tangy -> mango -> manga
+mange | 3 | crane -> angle -> mange
+mango | 3 | crane -> tangy -> mango
+mangy | 3 | crane -> tangy -> mangy
+mania | 4 | crane -> tangy -> banjo -> mania
+manic | 2 | crane -> manic
+manly | 5 | crane -> tangy -> sandy -> lanky -> manly
+manor | 2 | crane -> manor
+maple | 2 | crane -> maple
+march | 3 | crane -> scram -> march
+marry | 4 | crane -> party -> hardy -> marry
+marsh | 3 | crane -> party -> marsh
+mason | 3 | crane -> tangy -> mason
+masse | 6 | crane -> maple -> maize -> mauve -> maybe -> masse
+match | 2 | crane -> match
+matey | 3 | crane -> steal -> matey
+mauve | 4 | crane -> maple -> maize -> mauve
+maxim | 4 | crane -> salty -> vapid -> maxim
+maybe | 5 | crane -> maple -> maize -> mauve -> maybe
+mayor | 3 | crane -> party -> mayor
+mealy | 3 | crane -> least -> mealy
+meant | 3 | crane -> leant -> meant
+meaty | 4 | crane -> least -> death -> meaty
+mecca | 3 | crane -> decal -> mecca
+medal | 3 | crane -> steal -> medal
+media | 3 | crane -> steal -> media
+medic | 4 | crane -> belch -> decoy -> medic
+melee | 4 | crane -> slide -> bugle -> melee
+melon | 3 | crane -> women -> melon
+mercy | 3 | crane -> recut -> mercy
+merge | 5 | crane -> surge -> forge -> dirge -> merge
+merit | 5 | crane -> sower -> perky -> berth -> merit
+merry | 6 | crane -> sower -> perky -> derby -> ferry -> merry
+metal | 4 | crane -> steal -> fetal -> metal
+meter | 6 | crane -> sower -> filer -> tuber -> deter -> meter
+metro | 3 | crane -> sower -> metro
+micro | 4 | crane -> porch -> scour -> micro
+midge | 3 | crane -> slide -> midge
+midst | 3 | crane -> silky -> midst
+might | 5 | crane -> silky -> wight -> fight -> might
+milky | 3 | crane -> silky -> milky
+mimic | 5 | crane -> dutch -> scowl -> picky -> mimic
+mince | 2 | crane -> mince
+miner | 5 | crane -> liner -> diner -> finer -> miner
+minim | 4 | crane -> minty -> minus -> minim
+minor | 3 | crane -> mourn -> minor
+minty | 2 | crane -> minty
+minus | 3 | crane -> minty -> minus
+mirth | 5 | crane -> forty -> birth -> girth -> mirth
+miser | 3 | crane -> sower -> miser
+missy | 4 | crane -> silky -> gipsy -> missy
+mocha | 3 | crane -> match -> mocha
+modal | 4 | crane -> salty -> afoul -> modal
+model | 5 | crane -> spiel -> bowel -> hotel -> model
+modem | 4 | crane -> spiel -> duvet -> modem
+mogul | 4 | crane -> silky -> flout -> mogul
+moist | 6 | crane -> silky -> foist -> hoist -> joist -> moist
+molar | 4 | crane -> party -> sugar -> molar
+moldy | 3 | crane -> silky -> moldy
+money | 3 | crane -> women -> money
+month | 3 | crane -> minty -> month
+moody | 5 | crane -> silky -> howdy -> goody -> moody
+moose | 4 | crane -> slide -> mouse -> moose
+moral | 3 | crane -> party -> moral
+moron | 3 | crane -> mourn -> moron
+morph | 3 | crane -> forty -> morph
+mossy | 4 | crane -> silky -> mushy -> mossy
+motel | 5 | crane -> spiel -> bowel -> hotel -> motel
+motif | 4 | crane -> silky -> opium -> motif
+motor | 4 | crane -> forty -> roost -> motor
+motto | 4 | crane -> silky -> mouth -> motto
+moult | 4 | crane -> silky -> flout -> moult
+mound | 6 | crane -> sling -> bound -> found -> hound -> mound
+mount | 4 | crane -> sling -> bound -> mount
+mourn | 2 | crane -> mourn
+mouse | 3 | crane -> slide -> mouse
+mouth | 3 | crane -> silky -> mouth
+mover | 5 | crane -> sower -> hover -> lover -> mover
+movie | 4 | crane -> slide -> pique -> movie
+mower | 4 | crane -> sower -> lower -> mower
+mucky | 3 | crane -> dutch -> mucky
+mucus | 4 | crane -> dutch -> mucky -> mucus
+muddy | 5 | crane -> silky -> howdy -> buddy -> muddy
+mulch | 4 | crane -> dutch -> gulch -> mulch
+mummy | 6 | crane -> silky -> howdy -> jumpy -> gummy -> mummy
+munch | 4 | crane -> lunch -> bunch -> munch
+mural | 4 | crane -> party -> moral -> mural
+murky | 4 | crane -> forty -> burly -> murky
+mushy | 3 | crane -> silky -> mushy
+music | 4 | crane -> dutch -> mucky -> music
+musky | 5 | crane -> silky -> dusky -> husky -> musky
+musty | 4 | crane -> silky -> mushy -> musty
+myrrh | 4 | crane -> forty -> syrup -> myrrh
+nadir | 3 | crane -> manor -> nadir
+naive | 3 | crane -> angle -> naive
+nanny | 4 | crane -> gaunt -> fanny -> nanny
+nasal | 4 | crane -> tangy -> mason -> nasal
+nasty | 3 | crane -> tangy -> nasty
+natal | 4 | crane -> tangy -> baton -> natal
+naval | 4 | crane -> tangy -> mason -> naval
+navel | 3 | crane -> taken -> navel
+needy | 4 | crane -> women -> inept -> needy
+neigh | 4 | crane -> women -> inept -> neigh
+nerdy | 4 | crane -> liner -> heron -> nerdy
+nerve | 3 | crane -> nurse -> nerve
+never | 4 | crane -> liner -> under -> never
+newer | 5 | crane -> liner -> under -> never -> newer
+newly | 3 | crane -> women -> newly
+nicer | 2 | crane -> nicer
+niche | 3 | crane -> mince -> niche
+niece | 3 | crane -> mince -> niece
+night | 3 | crane -> minty -> night
+ninja | 4 | crane -> tangy -> final -> ninja
+ninny | 3 | crane -> sling -> ninny
+ninth | 4 | crane -> minty -> pinto -> ninth
+noble | 3 | crane -> singe -> noble
+nobly | 3 | crane -> minty -> nobly
+noise | 3 | crane -> singe -> noise
+noisy | 3 | crane -> minty -> noisy
+nomad | 4 | crane -> tangy -> admin -> nomad
+noose | 3 | crane -> singe -> noose
+north | 3 | crane -> mourn -> north
+nosey | 4 | crane -> women -> boney -> nosey
+notch | 3 | crane -> lunch -> notch
+novel | 4 | crane -> women -> boney -> novel
+nudge | 3 | crane -> singe -> nudge
+nurse | 2 | crane -> nurse
+nutty | 3 | crane -> minty -> nutty
+nylon | 3 | crane -> minty -> nylon
+nymph | 3 | crane -> minty -> nymph
+oaken | 3 | crane -> taken -> oaken
+obese | 5 | crane -> slide -> mouse -> those -> obese
+occur | 4 | crane -> porch -> scour -> occur
+ocean | 2 | crane -> ocean
+octal | 3 | crane -> match -> octal
+octet | 4 | crane -> belch -> dicey -> octet
+odder | 5 | crane -> sower -> other -> older -> odder
+oddly | 4 | crane -> silky -> godly -> oddly
+offal | 4 | crane -> salty -> afoul -> offal
+offer | 5 | crane -> sower -> other -> older -> offer
+often | 3 | crane -> women -> often
+olden | 4 | crane -> women -> often -> olden
+older | 4 | crane -> sower -> other -> older
+olive | 3 | crane -> slide -> olive
+ombre | 4 | crane -> surge -> fibre -> ombre
+omega | 3 | crane -> steal -> omega
+onion | 5 | crane -> minty -> unzip -> inbox -> onion
+onset | 3 | crane -> women -> onset
+opera | 4 | crane -> later -> rehab -> opera
+opine | 3 | crane -> shine -> opine
+opium | 3 | crane -> silky -> opium
+optic | 3 | crane -> dutch -> optic
+orbit | 3 | crane -> frost -> orbit
+order | 4 | crane -> fried -> dryer -> order
+organ | 3 | crane -> groan -> organ
+other | 3 | crane -> sower -> other
+otter | 4 | crane -> sower -> other -> otter
+ought | 4 | crane -> silky -> mouth -> ought
+ounce | 4 | crane -> mince -> dunce -> ounce
+outdo | 4 | crane -> silky -> mouth -> outdo
+outer | 4 | crane -> sower -> other -> outer
+outgo | 5 | crane -> silky -> mouth -> outdo -> outgo
+ovary | 4 | crane -> shard -> quart -> ovary
+ovate | 3 | crane -> slate -> ovate
+overt | 4 | crane -> sower -> metro -> overt
+ovine | 4 | crane -> shine -> opine -> ovine
+ovoid | 4 | crane -> silky -> opium -> ovoid
+owing | 4 | crane -> sling -> dying -> owing
+owner | 4 | crane -> liner -> goner -> owner
+oxide | 4 | crane -> slide -> guide -> oxide
+ozone | 3 | crane -> shine -> ozone
+paddy | 5 | crane -> salty -> gaudy -> bawdy -> paddy
+pagan | 4 | crane -> tangy -> wagon -> pagan
+paint | 4 | crane -> gaunt -> faint -> paint
+paler | 4 | crane -> later -> baler -> paler
+palsy | 3 | crane -> salty -> palsy
+panel | 4 | crane -> taken -> navel -> panel
+panic | 3 | crane -> manic -> panic
+pansy | 4 | crane -> tangy -> sandy -> pansy
+papal | 4 | crane -> salty -> laugh -> papal
+paper | 6 | crane -> later -> gayer -> wafer -> baker -> paper
+parer | 7 | crane -> later -> gayer -> wafer -> baker -> paper -> parer
+parka | 3 | crane -> party -> parka
+parry | 3 | crane -> party -> parry
+parse | 3 | crane -> barge -> parse
+party | 2 | crane -> party
+pasta | 3 | crane -> salty -> pasta
+paste | 3 | crane -> maple -> paste
+pasty | 4 | crane -> salty -> hasty -> pasty
+patch | 5 | crane -> match -> batch -> latch -> patch
+patio | 3 | crane -> salty -> patio
+patsy | 3 | crane -> salty -> patsy
+patty | 5 | crane -> salty -> batty -> fatty -> patty
+pause | 4 | crane -> maple -> paste -> pause
+payee | 4 | crane -> maple -> paste -> payee
+payer | 4 | crane -> later -> gayer -> payer
+peace | 3 | crane -> place -> peace
+peach | 5 | crane -> teach -> beach -> leach -> peach
+pearl | 4 | crane -> teary -> beard -> pearl
+pecan | 3 | crane -> ocean -> pecan
+pedal | 4 | crane -> steal -> medal -> pedal
+penal | 3 | crane -> taken -> penal
+pence | 6 | crane -> mince -> dunce -> fence -> hence -> pence
+penne | 4 | crane -> shine -> ozone -> penne
+penny | 3 | crane -> spend -> penny
+perch | 4 | crane -> recut -> mercy -> perch
+peril | 4 | crane -> sower -> perky -> peril
+perky | 3 | crane -> sower -> perky
+pesky | 3 | crane -> spiel -> pesky
+pesto | 4 | crane -> spiel -> pesky -> pesto
+petal | 5 | crane -> steal -> fetal -> metal -> petal
+petty | 4 | crane -> spiel -> depth -> petty
+phase | 3 | crane -> slate -> phase
+phone | 3 | crane -> shine -> phone
+phony | 4 | crane -> sling -> bound -> phony
+photo | 4 | crane -> silky -> mouth -> photo
+piano | 3 | crane -> plank -> piano
+picky | 4 | crane -> dutch -> scowl -> picky
+piece | 3 | crane -> spice -> piece
+piety | 4 | crane -> spiel -> tepid -> piety
+piggy | 4 | crane -> silky -> pithy -> piggy
+pilot | 4 | crane -> silky -> filth -> pilot
+pinch | 4 | crane -> lunch -> finch -> pinch
+piney | 4 | crane -> women -> inlet -> piney
+pinky | 3 | crane -> minty -> pinky
+pinto | 3 | crane -> minty -> pinto
+piper | 5 | crane -> sower -> filer -> viper -> piper
+pique | 3 | crane -> slide -> pique
+pitch | 3 | crane -> dutch -> pitch
+pithy | 3 | crane -> silky -> pithy
+pivot | 4 | crane -> silky -> wight -> pivot
+pixel | 4 | crane -> spiel -> impel -> pixel
+pixie | 4 | crane -> slide -> pique -> pixie
+pizza | 4 | crane -> salty -> avoid -> pizza
+place | 2 | crane -> place
+plaid | 3 | crane -> shalt -> plaid
+plain | 3 | crane -> slain -> plain
+plait | 3 | crane -> shalt -> plait
+plane | 2 | crane -> plane
+plank | 2 | crane -> plank
+plant | 3 | crane -> plank -> plant
+plate | 3 | crane -> slate -> plate
+plaza | 4 | crane -> shalt -> plaid -> plaza
+plead | 5 | crane -> steal -> bleak -> gleam -> plead
+pleat | 4 | crane -> steal -> bleat -> pleat
+plied | 3 | crane -> spiel -> plied
+plier | 4 | crane -> sower -> filer -> plier
+pluck | 3 | crane -> dutch -> pluck
+plumb | 4 | crane -> silky -> flout -> plumb
+plume | 4 | crane -> slide -> fluke -> plume
+plump | 5 | crane -> silky -> flout -> plumb -> plump
+plunk | 5 | crane -> sling -> blunt -> flunk -> plunk
+plush | 5 | crane -> silky -> flush -> blush -> plush
+poesy | 4 | crane -> spiel -> pesky -> poesy
+point | 4 | crane -> sling -> joint -> point
+poise | 4 | crane -> slide -> guise -> poise
+poker | 5 | crane -> sower -> hover -> joker -> poker
+polar | 3 | crane -> party -> polar
+polka | 4 | crane -> salty -> aglow -> polka
+polyp | 3 | crane -> silky -> polyp
+pooch | 3 | crane -> dutch -> pooch
+poppy | 5 | crane -> silky -> howdy -> pouty -> poppy
+porch | 2 | crane -> porch
+poser | 4 | crane -> sower -> loser -> poser
+posit | 4 | crane -> silky -> foist -> posit
+posse | 5 | crane -> slide -> mouse -> goose -> posse
+pouch | 3 | crane -> dutch -> pouch
+pound | 7 | crane -> sling -> bound -> found -> hound -> mound -> pound
+pouty | 4 | crane -> silky -> howdy -> pouty
+power | 5 | crane -> sower -> lower -> mower -> power
+prank | 4 | crane -> drank -> frank -> prank
+prawn | 4 | crane -> brain -> drawn -> prawn
+preen | 3 | crane -> green -> preen
+press | 4 | crane -> fried -> wrest -> press
+price | 3 | crane -> trice -> price
+prick | 4 | crane -> trick -> brick -> prick
+pride | 3 | crane -> prove -> pride
+pried | 3 | crane -> fried -> pried
+prime | 4 | crane -> prove -> pride -> prime
+primo | 3 | crane -> frost -> primo
+print | 4 | crane -> bring -> drink -> print
+prior | 4 | crane -> frost -> primo -> prior
+prism | 4 | crane -> frost -> brisk -> prism
+privy | 4 | crane -> frost -> grimy -> privy
+prize | 5 | crane -> prove -> pride -> prime -> prize
+probe | 3 | crane -> prove -> probe
+prone | 2 | crane -> prone
+prong | 4 | crane -> bring -> wrong -> prong
+proof | 3 | crane -> frost -> proof
+prose | 4 | crane -> prove -> probe -> prose
+proud | 4 | crane -> frost -> prowl -> proud
+prove | 2 | crane -> prove
+prowl | 3 | crane -> frost -> prowl
+proxy | 5 | crane -> frost -> prowl -> proud -> proxy
+prude | 4 | crane -> prove -> pride -> prude
+prune | 3 | crane -> prone -> prune
+psalm | 3 | crane -> shalt -> psalm
+pubic | 4 | crane -> dutch -> mucky -> pubic
+pudgy | 5 | crane -> silky -> howdy -> dumpy -> pudgy
+puffy | 5 | crane -> silky -> howdy -> jumpy -> puffy
+pulpy | 4 | crane -> silky -> moldy -> pulpy
+pulse | 4 | crane -> slide -> louse -> pulse
+punch | 5 | crane -> lunch -> bunch -> munch -> punch
+pupal | 4 | crane -> salty -> afoul -> pupal
+pupil | 4 | crane -> silky -> built -> pupil
+puppy | 6 | crane -> silky -> howdy -> jumpy -> guppy -> puppy
+puree | 3 | crane -> surge -> puree
+purer | 5 | crane -> sower -> filer -> tuber -> purer
+purge | 3 | crane -> surge -> purge
+purse | 3 | crane -> surge -> purse
+pushy | 5 | crane -> silky -> mushy -> bushy -> pushy
+putty | 6 | crane -> silky -> howdy -> jumpy -> puffy -> putty
+pygmy | 5 | crane -> silky -> howdy -> jumpy -> pygmy
+quack | 3 | crane -> slack -> quack
+quail | 4 | crane -> shalt -> plaid -> quail
+quake | 4 | crane -> slate -> image -> quake
+qualm | 3 | crane -> shalt -> qualm
+quark | 4 | crane -> shard -> quart -> quark
+quart | 3 | crane -> shard -> quart
+quash | 3 | crane -> shalt -> quash
+quasi | 3 | crane -> shalt -> quasi
+queen | 4 | crane -> women -> given -> queen
+queer | 6 | crane -> sower -> filer -> tuber -> purer -> queer
+quell | 5 | crane -> spiel -> extol -> dwell -> quell
+query | 5 | crane -> sower -> perky -> fiery -> query
+quest | 4 | crane -> spiel -> guest -> quest
+queue | 4 | crane -> slide -> quote -> queue
+quick | 4 | crane -> dutch -> juicy -> quick
+quiet | 3 | crane -> spiel -> quiet
+quill | 5 | crane -> silky -> built -> guild -> quill
+quilt | 5 | crane -> silky -> built -> guilt -> quilt
+quirk | 4 | crane -> forty -> shirk -> quirk
+quite | 3 | crane -> slide -> quite
+quota | 3 | crane -> salty -> quota
+quote | 3 | crane -> slide -> quote
+quoth | 4 | crane -> silky -> mouth -> quoth
+rabbi | 5 | crane -> party -> labor -> rabid -> rabbi
+rabid | 4 | crane -> party -> labor -> rabid
+racer | 3 | crane -> recap -> racer
+radar | 4 | crane -> party -> labor -> radar
+radii | 4 | crane -> party -> labor -> radii
+radio | 4 | crane -> party -> labor -> radio
+rainy | 2 | crane -> rainy
+raise | 3 | crane -> barge -> raise
+rajah | 5 | crane -> party -> labor -> radii -> rajah
+rally | 4 | crane -> party -> dairy -> rally
+ralph | 4 | crane -> party -> rapid -> ralph
+ramen | 2 | crane -> ramen
+ranch | 3 | crane -> acorn -> ranch
+randy | 3 | crane -> manor -> randy
+range | 2 | crane -> range
+rapid | 3 | crane -> party -> rapid
+rarer | 7 | crane -> later -> gayer -> wafer -> baker -> paper -> rarer
+raspy | 3 | crane -> party -> raspy
+ratio | 3 | crane -> party -> ratio
+ratty | 3 | crane -> party -> ratty
+raven | 3 | crane -> ramen -> raven
+rayon | 4 | crane -> manor -> baron -> rayon
+razor | 6 | crane -> party -> labor -> favor -> major -> razor
+reach | 2 | crane -> reach
+react | 3 | crane -> reach -> react
+ready | 3 | crane -> teary -> ready
+realm | 3 | crane -> teary -> realm
+rearm | 5 | crane -> teary -> beard -> pearl -> rearm
+rebar | 5 | crane -> later -> shear -> debar -> rebar
+rebel | 4 | crane -> sower -> rivet -> rebel
+rebus | 3 | crane -> sower -> rebus
+rebut | 5 | crane -> sower -> perky -> refit -> rebut
+recap | 2 | crane -> recap
+recur | 3 | crane -> recut -> recur
+recut | 2 | crane -> recut
+reedy | 5 | crane -> sower -> perky -> retry -> reedy
+refer | 5 | crane -> sower -> filer -> defer -> refer
+refit | 4 | crane -> sower -> perky -> refit
+regal | 3 | crane -> later -> regal
+rehab | 3 | crane -> later -> rehab
+reign | 3 | crane -> liner -> reign
+relax | 4 | crane -> later -> regal -> relax
+relay | 5 | crane -> later -> regal -> relax -> relay
+relic | 3 | crane -> recut -> relic
+remit | 5 | crane -> sower -> perky -> refit -> remit
+renal | 3 | crane -> ramen -> renal
+renew | 3 | crane -> liner -> renew
+repay | 4 | crane -> later -> rehab -> repay
+repel | 5 | crane -> sower -> rivet -> rebel -> repel
+reply | 4 | crane -> sower -> perky -> reply
+rerun | 4 | crane -> liner -> heron -> rerun
+reset | 3 | crane -> sower -> reset
+resin | 4 | crane -> liner -> reign -> resin
+retch | 3 | crane -> recut -> retch
+retro | 4 | crane -> sower -> metro -> retro
+retry | 4 | crane -> sower -> perky -> retry
+reuse | 4 | crane -> surge -> rouse -> reuse
+revel | 4 | crane -> sower -> rivet -> revel
+revue | 4 | crane -> surge -> route -> revue
+rhino | 3 | crane -> horny -> rhino
+rhyme | 4 | crane -> surge -> fibre -> rhyme
+rider | 6 | crane -> sower -> filer -> viper -> tiger -> rider
+ridge | 3 | crane -> surge -> ridge
+rifle | 4 | crane -> surge -> fibre -> rifle
+right | 4 | crane -> forty -> shirt -> right
+rigid | 4 | crane -> forty -> shirk -> rigid
+rigor | 4 | crane -> forty -> vigor -> rigor
+rinse | 3 | crane -> nurse -> rinse
+ripen | 4 | crane -> liner -> risen -> ripen
+riper | 6 | crane -> sower -> filer -> viper -> piper -> riper
+risen | 3 | crane -> liner -> risen
+riser | 4 | crane -> sower -> miser -> riser
+risky | 4 | crane -> forty -> rugby -> risky
+rival | 4 | crane -> party -> sugar -> rival
+river | 7 | crane -> sower -> filer -> viper -> diver -> giver -> river
+rivet | 3 | crane -> sower -> rivet
+roach | 3 | crane -> scarf -> roach
+roast | 3 | crane -> shard -> roast
+robin | 3 | crane -> mourn -> robin
+robot | 4 | crane -> forty -> roost -> robot
+rocky | 3 | crane -> porch -> rocky
+rodeo | 3 | crane -> sower -> rodeo
+roger | 7 | crane -> sower -> hover -> joker -> boxer -> foyer -> roger
+rogue | 3 | crane -> surge -> rogue
+roomy | 4 | crane -> forty -> rowdy -> roomy
+roost | 3 | crane -> forty -> roost
+rotor | 4 | crane -> forty -> roost -> rotor
+rouge | 3 | crane -> surge -> rouge
+rough | 4 | crane -> forty -> gourd -> rough
+round | 3 | crane -> horny -> round
+rouse | 3 | crane -> surge -> rouse
+route | 3 | crane -> surge -> route
+rover | 6 | crane -> sower -> hover -> lover -> mover -> rover
+rowdy | 3 | crane -> forty -> rowdy
+rower | 7 | crane -> sower -> lower -> mower -> power -> tower -> rower
+royal | 3 | crane -> party -> royal
+ruddy | 4 | crane -> forty -> rugby -> ruddy
+ruder | 7 | crane -> sower -> filer -> tuber -> purer -> queer -> ruder
+rugby | 3 | crane -> forty -> rugby
+ruler | 4 | crane -> sower -> filer -> ruler
+rumba | 4 | crane -> party -> sugar -> rumba
+rumor | 5 | crane -> forty -> vigor -> humor -> rumor
+rupee | 3 | crane -> surge -> rupee
+rural | 5 | crane -> party -> moral -> viral -> rural
+rusty | 3 | crane -> forty -> rusty
+sadly | 3 | crane -> salty -> sadly
+safer | 5 | crane -> later -> gayer -> wafer -> safer
+saint | 5 | crane -> gaunt -> faint -> paint -> saint
+salad | 4 | crane -> salty -> salvo -> salad
+sally | 3 | crane -> salty -> sally
+salon | 4 | crane -> tangy -> mason -> salon
+salsa | 5 | crane -> salty -> salvo -> salad -> salsa
+salty | 2 | crane -> salty
+salve | 4 | crane -> maple -> halve -> salve
+salvo | 3 | crane -> salty -> salvo
+sandy | 3 | crane -> tangy -> sandy
+saner | 3 | crane -> ramen -> saner
+sappy | 4 | crane -> salty -> savoy -> sappy
+sassy | 5 | crane -> salty -> savoy -> sappy -> sassy
+satin | 4 | crane -> tangy -> baton -> satin
+satyr | 3 | crane -> party -> satyr
+sauce | 3 | crane -> acute -> sauce
+saucy | 3 | crane -> match -> saucy
+sauna | 4 | crane -> gaunt -> fauna -> sauna
+saute | 4 | crane -> maple -> baste -> saute
+savor | 5 | crane -> party -> labor -> favor -> savor
+savoy | 3 | crane -> salty -> savoy
+savvy | 4 | crane -> salty -> savoy -> savvy
+scald | 3 | crane -> slack -> scald
+scale | 3 | crane -> place -> scale
+scalp | 4 | crane -> slack -> scald -> scalp
+scaly | 5 | crane -> slack -> scald -> scalp -> scaly
+scamp | 3 | crane -> slack -> scamp
+scant | 2 | crane -> scant
+scare | 2 | crane -> scare
+scarf | 2 | crane -> scarf
+scary | 3 | crane -> scarf -> scary
+scene | 3 | crane -> scone -> scene
+scent | 2 | crane -> scent
+scion | 3 | crane -> lunch -> scion
+scoff | 4 | crane -> dutch -> scowl -> scoff
+scold | 3 | crane -> dutch -> scold
+scone | 2 | crane -> scone
+scoop | 5 | crane -> dutch -> scowl -> scoff -> scoop
+scope | 3 | crane -> spice -> scope
+score | 2 | crane -> score
+scorn | 3 | crane -> incur -> scorn
+scour | 3 | crane -> porch -> scour
+scout | 3 | crane -> dutch -> scout
+scowl | 3 | crane -> dutch -> scowl
+scram | 2 | crane -> scram
+scrap | 3 | crane -> scram -> scrap
+scree | 3 | crane -> score -> scree
+screw | 3 | crane -> recut -> screw
+scrub | 3 | crane -> porch -> scrub
+scrum | 4 | crane -> porch -> scrub -> scrum
+scuba | 4 | crane -> match -> focal -> scuba
+sedan | 4 | crane -> taken -> began -> sedan
+seedy | 3 | crane -> spiel -> seedy
+segue | 4 | crane -> slide -> stoke -> segue
+seize | 4 | crane -> slide -> spite -> seize
+semen | 5 | crane -> women -> hymen -> lumen -> semen
+sense | 3 | crane -> singe -> sense
+sepia | 3 | crane -> steal -> sepia
+serif | 4 | crane -> sower -> serum -> serif
+serum | 3 | crane -> sower -> serum
+serve | 3 | crane -> surge -> serve
+setup | 3 | crane -> spiel -> setup
+seven | 4 | crane -> women -> given -> seven
+sever | 5 | crane -> sower -> super -> skier -> sever
+sewer | 3 | crane -> sower -> sewer
+shack | 3 | crane -> slack -> shack
+shade | 3 | crane -> slate -> shade
+shady | 3 | crane -> shalt -> shady
+shaft | 3 | crane -> shalt -> shaft
+shake | 4 | crane -> slate -> shade -> shake
+shaky | 4 | crane -> shalt -> shady -> shaky
+shale | 3 | crane -> slate -> shale
+shall | 3 | crane -> shalt -> shall
+shalt | 2 | crane -> shalt
+shame | 5 | crane -> slate -> shade -> shake -> shame
+shank | 3 | crane -> plank -> shank
+shape | 6 | crane -> slate -> shade -> shake -> shame -> shape
+shard | 2 | crane -> shard
+share | 3 | crane -> blare -> share
+shark | 3 | crane -> shard -> shark
+sharp | 4 | crane -> shard -> shark -> sharp
+shave | 7 | crane -> slate -> shade -> shake -> shame -> shape -> shave
+shawl | 3 | crane -> shalt -> shawl
+shear | 3 | crane -> later -> shear
+sheen | 5 | crane -> women -> given -> queen -> sheen
+sheep | 3 | crane -> spiel -> sheep
+sheer | 6 | crane -> sower -> super -> skier -> sever -> sheer
+sheet | 3 | crane -> spiel -> sheet
+sheik | 3 | crane -> spiel -> sheik
+shelf | 3 | crane -> spiel -> shelf
+shell | 3 | crane -> spiel -> shell
+shied | 3 | crane -> spiel -> shied
+shift | 4 | crane -> silky -> swift -> shift
+shine | 2 | crane -> shine
+shiny | 4 | crane -> sling -> stink -> shiny
+shire | 4 | crane -> surge -> shore -> shire
+shirk | 3 | crane -> forty -> shirk
+shirt | 3 | crane -> forty -> shirt
+shoal | 3 | crane -> salty -> shoal
+shock | 3 | crane -> dutch -> shock
+shone | 3 | crane -> shine -> shone
+shook | 3 | crane -> silky -> shook
+shoot | 5 | crane -> silky -> stomp -> shout -> shoot
+shore | 3 | crane -> surge -> shore
+shorn | 3 | crane -> mourn -> shorn
+short | 4 | crane -> forty -> storm -> short
+shout | 4 | crane -> silky -> stomp -> shout
+shove | 4 | crane -> slide -> stoke -> shove
+shown | 3 | crane -> minty -> shown
+showy | 3 | crane -> silky -> showy
+shrew | 3 | crane -> sower -> shrew
+shrub | 4 | crane -> forty -> shrug -> shrub
+shrug | 3 | crane -> forty -> shrug
+shuck | 3 | crane -> dutch -> shuck
+shunt | 4 | crane -> sling -> stunk -> shunt
+shush | 4 | crane -> silky -> stomp -> shush
+shyly | 3 | crane -> silky -> shyly
+siege | 3 | crane -> slide -> siege
+sieve | 4 | crane -> slide -> siege -> sieve
+sight | 3 | crane -> silky -> sight
+sigma | 3 | crane -> salty -> sigma
+silky | 2 | crane -> silky
+silly | 3 | crane -> silky -> silly
+since | 3 | crane -> mince -> since
+sinew | 3 | crane -> women -> sinew
+singe | 2 | crane -> singe
+siren | 4 | crane -> liner -> risen -> siren
+sissy | 4 | crane -> silky -> sixty -> sissy
+sixth | 4 | crane -> silky -> sight -> sixth
+sixty | 3 | crane -> silky -> sixty
+skate | 3 | crane -> slate -> skate
+skier | 4 | crane -> sower -> super -> skier
+skiff | 4 | crane -> silky -> skimp -> skiff
+skill | 3 | crane -> silky -> skill
+skimp | 3 | crane -> silky -> skimp
+skirt | 4 | crane -> forty -> shirt -> skirt
+skulk | 3 | crane -> silky -> skulk
+skull | 4 | crane -> silky -> skulk -> skull
+skunk | 5 | crane -> sling -> stunk -> spunk -> skunk
+slack | 2 | crane -> slack
+slain | 2 | crane -> slain
+slang | 4 | crane -> plank -> gland -> slang
+slant | 4 | crane -> plank -> gland -> slant
+slash | 3 | crane -> shalt -> slash
+slate | 2 | crane -> slate
+slave | 3 | crane -> slate -> slave
+sleek | 3 | crane -> spiel -> sleek
+sleep | 3 | crane -> spiel -> sleep
+sleet | 4 | crane -> spiel -> sleek -> sleet
+slept | 3 | crane -> spiel -> slept
+slice | 3 | crane -> spice -> slice
+slick | 3 | crane -> dutch -> slick
+slide | 2 | crane -> slide
+slime | 3 | crane -> slide -> slime
+slimy | 3 | crane -> silky -> slimy
+sling | 2 | crane -> sling
+slink | 3 | crane -> sling -> slink
+sloop | 4 | crane -> silky -> sloth -> sloop
+slope | 3 | crane -> slide -> slope
+slosh | 4 | crane -> silky -> sloth -> slosh
+sloth | 3 | crane -> silky -> sloth
+slump | 4 | crane -> silky -> sloth -> slump
+slung | 3 | crane -> sling -> slung
+slunk | 3 | crane -> sling -> slunk
+slurp | 4 | crane -> forty -> shirk -> slurp
+slush | 4 | crane -> silky -> sloth -> slush
+slyly | 4 | crane -> silky -> shyly -> slyly
+smack | 4 | crane -> slack -> shack -> smack
+small | 3 | crane -> shalt -> small
+smart | 4 | crane -> shard -> stark -> smart
+smash | 3 | crane -> shalt -> smash
+smear | 4 | crane -> later -> shear -> smear
+smell | 4 | crane -> spiel -> shell -> smell
+smelt | 4 | crane -> spiel -> shelf -> smelt
+smile | 3 | crane -> slide -> smile
+smirk | 4 | crane -> forty -> shirk -> smirk
+smite | 4 | crane -> slide -> spite -> smite
+smith | 4 | crane -> silky -> swift -> smith
+smock | 4 | crane -> dutch -> slick -> smock
+smoke | 4 | crane -> slide -> stoke -> smoke
+smoky | 3 | crane -> silky -> smoky
+smote | 4 | crane -> slide -> stoke -> smote
+snack | 2 | crane -> snack
+snail | 3 | crane -> slain -> snail
+snake | 3 | crane -> knave -> snake
+snaky | 3 | crane -> slain -> snaky
+snare | 2 | crane -> snare
+snarl | 2 | crane -> snarl
+sneak | 4 | crane -> taken -> knead -> sneak
+sneer | 5 | crane -> liner -> under -> enter -> sneer
+snide | 3 | crane -> singe -> snide
+sniff | 5 | crane -> minty -> unzip -> inbox -> sniff
+snipe | 4 | crane -> singe -> snide -> snipe
+snoop | 4 | crane -> minty -> shown -> snoop
+snore | 3 | crane -> nurse -> snore
+snort | 4 | crane -> mourn -> intro -> snort
+snout | 3 | crane -> minty -> snout
+snowy | 4 | crane -> minty -> nobly -> snowy
+snuck | 3 | crane -> lunch -> snuck
+snuff | 4 | crane -> minty -> shown -> snuff
+soapy | 4 | crane -> shalt -> swamp -> soapy
+sober | 3 | crane -> sower -> sober
+soggy | 4 | crane -> silky -> showy -> soggy
+solar | 4 | crane -> party -> sugar -> solar
+solid | 3 | crane -> silky -> solid
+solve | 4 | crane -> slide -> stole -> solve
+sonar | 3 | crane -> manor -> sonar
+sonic | 3 | crane -> lunch -> sonic
+sooth | 5 | crane -> silky -> stomp -> shout -> sooth
+sooty | 4 | crane -> silky -> showy -> sooty
+sorry | 5 | crane -> forty -> wordy -> lorry -> sorry
+sound | 4 | crane -> sling -> stunk -> sound
+south | 4 | crane -> silky -> stomp -> south
+sower | 2 | crane -> sower
+space | 3 | crane -> place -> space
+spade | 4 | crane -> slate -> shade -> spade
+spank | 3 | crane -> plank -> spank
+spare | 4 | crane -> blare -> share -> spare
+spark | 4 | crane -> shard -> stark -> spark
+spasm | 4 | crane -> shalt -> swamp -> spasm
+spawn | 3 | crane -> slain -> spawn
+speak | 3 | crane -> steal -> speak
+spear | 5 | crane -> later -> shear -> smear -> spear
+speck | 4 | crane -> belch -> edict -> speck
+speed | 3 | crane -> spiel -> speed
+spell | 3 | crane -> spiel -> spell
+spelt | 3 | crane -> spiel -> spelt
+spend | 2 | crane -> spend
+spent | 3 | crane -> spend -> spent
+sperm | 4 | crane -> sower -> serum -> sperm
+spice | 2 | crane -> spice
+spicy | 4 | crane -> dutch -> slick -> spicy
+spied | 3 | crane -> spiel -> spied
+spiel | 2 | crane -> spiel
+spike | 4 | crane -> slide -> spite -> spike
+spiky | 3 | crane -> silky -> spiky
+spill | 4 | crane -> silky -> spilt -> spill
+spilt | 3 | crane -> silky -> spilt
+spine | 3 | crane -> shine -> spine
+spiny | 5 | crane -> sling -> stink -> shiny -> spiny
+spire | 4 | crane -> surge -> shore -> spire
+spite | 3 | crane -> slide -> spite
+splat | 3 | crane -> salty -> splat
+split | 4 | crane -> silky -> solid -> split
+spoil | 4 | crane -> silky -> spilt -> spoil
+spoke | 5 | crane -> slide -> stoke -> smoke -> spoke
+spoof | 4 | crane -> silky -> stomp -> spoof
+spook | 4 | crane -> silky -> shook -> spook
+spool | 4 | crane -> silky -> sloth -> spool
+spoon | 4 | crane -> minty -> shown -> spoon
+spore | 4 | crane -> surge -> shore -> spore
+sport | 5 | crane -> forty -> storm -> short -> sport
+spout | 4 | crane -> silky -> stomp -> spout
+spray | 3 | crane -> party -> spray
+spree | 4 | crane -> surge -> serve -> spree
+sprig | 4 | crane -> forty -> shrug -> sprig
+spunk | 4 | crane -> sling -> stunk -> spunk
+spurn | 3 | crane -> mourn -> spurn
+spurt | 4 | crane -> forty -> shirt -> spurt
+squad | 4 | crane -> salty -> sigma -> squad
+squat | 3 | crane -> salty -> squat
+squib | 4 | crane -> silky -> swift -> squib
+stack | 5 | crane -> slack -> shack -> smack -> stack
+staff | 5 | crane -> shalt -> staid -> stamp -> staff
+stage | 3 | crane -> slate -> stage
+staid | 3 | crane -> shalt -> staid
+stain | 3 | crane -> slain -> stain
+stair | 3 | crane -> shard -> stair
+stake | 4 | crane -> slate -> stage -> stake
+stale | 3 | crane -> slate -> stale
+stalk | 3 | crane -> shalt -> stalk
+stall | 4 | crane -> shalt -> stalk -> stall
+stamp | 4 | crane -> shalt -> staid -> stamp
+stand | 4 | crane -> plank -> giant -> stand
+stank | 4 | crane -> plank -> shank -> stank
+stare | 5 | crane -> blare -> share -> spare -> stare
+stark | 3 | crane -> shard -> stark
+start | 4 | crane -> shard -> stark -> start
+stash | 4 | crane -> shalt -> swath -> stash
+state | 4 | crane -> slate -> skate -> state
+stave | 5 | crane -> slate -> stage -> stake -> stave
+stead | 3 | crane -> steal -> stead
+steak | 4 | crane -> steal -> stead -> steak
+steal | 2 | crane -> steal
+steam | 5 | crane -> steal -> stead -> steak -> steam
+steed | 4 | crane -> spiel -> sheet -> steed
+steel | 3 | crane -> spiel -> steel
+steep | 4 | crane -> spiel -> sheep -> steep
+steer | 7 | crane -> sower -> super -> skier -> sever -> sheer -> steer
+stein | 5 | crane -> women -> begin -> elfin -> stein
+stern | 4 | crane -> liner -> heron -> stern
+stick | 3 | crane -> dutch -> stick
+stiff | 4 | crane -> silky -> swift -> stiff
+still | 4 | crane -> silky -> spilt -> still
+stilt | 4 | crane -> silky -> spilt -> stilt
+sting | 3 | crane -> sling -> sting
+stink | 3 | crane -> sling -> stink
+stint | 4 | crane -> sling -> stink -> stint
+stock | 4 | crane -> dutch -> stick -> stock
+stoic | 4 | crane -> dutch -> topic -> stoic
+stoke | 3 | crane -> slide -> stoke
+stole | 3 | crane -> slide -> stole
+stomp | 3 | crane -> silky -> stomp
+stone | 3 | crane -> shine -> stone
+stony | 4 | crane -> sling -> stunk -> stony
+stood | 4 | crane -> silky -> stomp -> stood
+stool | 4 | crane -> silky -> sloth -> stool
+stoop | 4 | crane -> silky -> stomp -> stoop
+store | 5 | crane -> surge -> shore -> spore -> store
+stork | 4 | crane -> forty -> storm -> stork
+storm | 3 | crane -> forty -> storm
+story | 3 | crane -> forty -> story
+stout | 5 | crane -> silky -> stomp -> stood -> stout
+stove | 4 | crane -> slide -> stoke -> stove
+strap | 3 | crane -> party -> strap
+straw | 3 | crane -> party -> straw
+stray | 3 | crane -> party -> stray
+strip | 3 | crane -> forty -> strip
+strut | 4 | crane -> forty -> strip -> strut
+stuck | 3 | crane -> dutch -> stuck
+study | 4 | crane -> silky -> showy -> study
+stuff | 4 | crane -> silky -> stomp -> stuff
+stump | 4 | crane -> silky -> stomp -> stump
+stung | 3 | crane -> sling -> stung
+stunk | 3 | crane -> sling -> stunk
+stunt | 4 | crane -> sling -> stunk -> stunt
+style | 4 | crane -> slide -> stole -> style
+suave | 4 | crane -> slate -> shade -> suave
+sugar | 3 | crane -> party -> sugar
+suing | 4 | crane -> sling -> sting -> suing
+suite | 5 | crane -> slide -> spite -> smite -> suite
+sulky | 3 | crane -> silky -> sulky
+sully | 3 | crane -> silky -> sully
+sumac | 3 | crane -> match -> sumac
+sunny | 4 | crane -> sling -> stunk -> sunny
+super | 3 | crane -> sower -> super
+surer | 4 | crane -> sower -> super -> surer
+surge | 2 | crane -> surge
+surly | 4 | crane -> forty -> burly -> surly
+sushi | 5 | crane -> silky -> swift -> squib -> sushi
+swami | 4 | crane -> shalt -> swamp -> swami
+swamp | 3 | crane -> shalt -> swamp
+swarm | 4 | crane -> shard -> stark -> swarm
+swash | 4 | crane -> shalt -> smash -> swash
+swath | 3 | crane -> shalt -> swath
+swear | 6 | crane -> later -> shear -> smear -> spear -> swear
+sweat | 3 | crane -> steal -> sweat
+sweep | 5 | crane -> spiel -> sheep -> steep -> sweep
+sweet | 4 | crane -> spiel -> sheet -> sweet
+swell | 5 | crane -> spiel -> shell -> smell -> swell
+swept | 4 | crane -> spiel -> setup -> swept
+swift | 3 | crane -> silky -> swift
+swill | 4 | crane -> silky -> spilt -> swill
+swine | 4 | crane -> shine -> spine -> swine
+swing | 5 | crane -> sling -> sting -> suing -> swing
+swirl | 4 | crane -> forty -> shirk -> swirl
+swish | 4 | crane -> silky -> swift -> swish
+swoon | 4 | crane -> minty -> shown -> swoon
+swoop | 4 | crane -> silky -> stomp -> swoop
+sword | 4 | crane -> forty -> vigor -> sword
+swore | 6 | crane -> surge -> shore -> spore -> store -> swore
+sworn | 4 | crane -> mourn -> shorn -> sworn
+swung | 4 | crane -> sling -> stung -> swung
+synod | 3 | crane -> minty -> synod
+syrup | 3 | crane -> forty -> syrup
+tabby | 3 | crane -> salty -> tabby
+table | 4 | crane -> maple -> fable -> table
+taboo | 4 | crane -> salty -> patio -> taboo
+tacit | 4 | crane -> match -> tacky -> tacit
+tacky | 3 | crane -> match -> tacky
+taffy | 4 | crane -> salty -> tabby -> taffy
+taint | 6 | crane -> gaunt -> faint -> paint -> saint -> taint
+taken | 2 | crane -> taken
+taker | 3 | crane -> later -> taker
+tally | 3 | crane -> salty -> tally
+talon | 3 | crane -> tangy -> talon
+tamer | 4 | crane -> later -> taker -> tamer
+tango | 3 | crane -> tangy -> tango
+tangy | 2 | crane -> tangy
+taper | 5 | crane -> later -> taker -> tamer -> taper
+tapir | 3 | crane -> party -> tapir
+tardy | 3 | crane -> party -> tardy
+tarot | 3 | crane -> party -> tarot
+taste | 6 | crane -> maple -> baste -> haste -> waste -> taste
+tasty | 5 | crane -> salty -> hasty -> pasty -> tasty
+tatty | 6 | crane -> salty -> batty -> fatty -> patty -> tatty
+taunt | 7 | crane -> gaunt -> daunt -> haunt -> jaunt -> vaunt -> taunt
+tawny | 3 | crane -> gaunt -> tawny
+teach | 2 | crane -> teach
+teary | 2 | crane -> teary
+tease | 3 | crane -> slate -> tease
+teddy | 4 | crane -> spiel -> hefty -> teddy
+teeth | 4 | crane -> spiel -> hefty -> teeth
+tempo | 4 | crane -> spiel -> depth -> tempo
+tenet | 4 | crane -> women -> inlet -> tenet
+tenor | 3 | crane -> liner -> tenor
+tense | 4 | crane -> singe -> dense -> tense
+tenth | 4 | crane -> women -> inept -> tenth
+tepee | 5 | crane -> slide -> quote -> thyme -> tepee
+tepid | 3 | crane -> spiel -> tepid
+terra | 4 | crane -> later -> avert -> terra
+terse | 4 | crane -> surge -> horse -> terse
+testy | 5 | crane -> spiel -> guest -> zesty -> testy
+thank | 4 | crane -> plank -> shank -> thank
+theft | 4 | crane -> spiel -> hefty -> theft
+their | 4 | crane -> sower -> demur -> their
+theme | 5 | crane -> slide -> quote -> thyme -> theme
+there | 4 | crane -> surge -> fibre -> there
+these | 4 | crane -> slide -> mouse -> these
+theta | 4 | crane -> steal -> adept -> theta
+thick | 3 | crane -> dutch -> thick
+thief | 4 | crane -> spiel -> quiet -> thief
+thigh | 4 | crane -> silky -> opium -> thigh
+thing | 5 | crane -> sling -> dying -> owing -> thing
+think | 4 | crane -> sling -> joint -> think
+third | 4 | crane -> forty -> shirt -> third
+thong | 3 | crane -> sling -> thong
+thorn | 4 | crane -> mourn -> shorn -> thorn
+those | 4 | crane -> slide -> mouse -> those
+three | 4 | crane -> surge -> forte -> three
+threw | 3 | crane -> sower -> threw
+throb | 3 | crane -> forty -> throb
+throw | 4 | crane -> forty -> throb -> throw
+thrum | 4 | crane -> forty -> strip -> thrum
+thumb | 4 | crane -> silky -> mouth -> thumb
+thump | 5 | crane -> silky -> mouth -> thumb -> thump
+thyme | 4 | crane -> slide -> quote -> thyme
+tiara | 4 | crane -> shard -> quart -> tiara
+tibia | 4 | crane -> salty -> about -> tibia
+tidal | 4 | crane -> salty -> bloat -> tidal
+tiger | 5 | crane -> sower -> filer -> viper -> tiger
+tight | 6 | crane -> silky -> wight -> fight -> might -> tight
+tilde | 3 | crane -> slide -> tilde
+timer | 6 | crane -> sower -> filer -> viper -> tiger -> timer
+timid | 5 | crane -> silky -> wight -> ditto -> timid
+tipsy | 4 | crane -> silky -> gipsy -> tipsy
+titan | 3 | crane -> tangy -> titan
+tithe | 5 | crane -> slide -> pique -> biome -> tithe
+title | 5 | crane -> slide -> bilge -> lithe -> title
+toast | 4 | crane -> shalt -> boast -> toast
+today | 3 | crane -> salty -> today
+toddy | 5 | crane -> silky -> howdy -> goody -> toddy
+token | 4 | crane -> women -> dozen -> token
+tonal | 3 | crane -> tangy -> tonal
+tonga | 3 | crane -> tangy -> tonga
+tonic | 4 | crane -> lunch -> sonic -> tonic
+tooth | 5 | crane -> silky -> mouth -> booth -> tooth
+topaz | 4 | crane -> salty -> about -> topaz
+topic | 3 | crane -> dutch -> topic
+torch | 3 | crane -> porch -> torch
+torso | 4 | crane -> forty -> torus -> torso
+torus | 3 | crane -> forty -> torus
+total | 4 | crane -> salty -> bloat -> total
+totem | 4 | crane -> spiel -> duvet -> totem
+touch | 3 | crane -> dutch -> touch
+tough | 4 | crane -> silky -> mouth -> tough
+towel | 5 | crane -> spiel -> bowel -> dowel -> towel
+tower | 6 | crane -> sower -> lower -> mower -> power -> tower
+toxic | 4 | crane -> dutch -> topic -> toxic
+toxin | 4 | crane -> minty -> unlit -> toxin
+trace | 4 | crane -> brace -> grace -> trace
+track | 2 | crane -> track
+tract | 3 | crane -> track -> tract
+trade | 3 | crane -> grade -> trade
+trail | 2 | crane -> trail
+train | 5 | crane -> brain -> drain -> grain -> train
+trait | 3 | crane -> trail -> trait
+tramp | 3 | crane -> trail -> tramp
+trash | 4 | crane -> trail -> tramp -> trash
+trawl | 3 | crane -> trail -> trawl
+tread | 2 | crane -> tread
+treat | 3 | crane -> tread -> treat
+trend | 2 | crane -> trend
+triad | 2 | crane -> triad
+trial | 3 | crane -> triad -> trial
+tribe | 3 | crane -> prove -> tribe
+trice | 2 | crane -> trice
+trick | 2 | crane -> trick
+tried | 4 | crane -> fried -> pried -> tried
+tripe | 4 | crane -> prove -> gripe -> tripe
+trite | 4 | crane -> prove -> tribe -> trite
+troll | 4 | crane -> frost -> broth -> troll
+troop | 5 | crane -> frost -> broth -> troll -> troop
+trope | 4 | crane -> prove -> grope -> trope
+trout | 4 | crane -> frost -> grout -> trout
+trove | 5 | crane -> prove -> drove -> grove -> trove
+truce | 3 | crane -> trice -> truce
+truck | 3 | crane -> trick -> truck
+truer | 4 | crane -> fried -> gruel -> truer
+truly | 3 | crane -> frost -> truly
+trump | 4 | crane -> frost -> truly -> trump
+trunk | 4 | crane -> bring -> drunk -> trunk
+truss | 3 | crane -> frost -> truss
+trust | 4 | crane -> frost -> wrist -> trust
+truth | 5 | crane -> frost -> truly -> trump -> truth
+tryst | 5 | crane -> frost -> wrist -> trust -> tryst
+tubal | 4 | crane -> salty -> bloat -> tubal
+tuber | 4 | crane -> sower -> filer -> tuber
+tulip | 3 | crane -> silky -> tulip
+tulle | 4 | crane -> slide -> bugle -> tulle
+tumor | 4 | crane -> forty -> storm -> tumor
+tunic | 3 | crane -> lunch -> tunic
+turbo | 4 | crane -> forty -> throb -> turbo
+tutor | 4 | crane -> forty -> storm -> tutor
+twang | 4 | crane -> plank -> giant -> twang
+tweak | 3 | crane -> steal -> tweak
+tweed | 4 | crane -> spiel -> duvet -> tweed
+tweet | 5 | crane -> spiel -> duvet -> beget -> tweet
+twice | 4 | crane -> spice -> juice -> twice
+twine | 4 | crane -> shine -> opine -> twine
+twirl | 4 | crane -> forty -> shirt -> twirl
+twist | 4 | crane -> silky -> foist -> twist
+twixt | 5 | crane -> silky -> opium -> thigh -> twixt
+tying | 4 | crane -> sling -> dying -> tying
+udder | 5 | crane -> sower -> filer -> tuber -> udder
+ulcer | 3 | crane -> recut -> ulcer
+ultra | 3 | crane -> party -> ultra
+umbra | 4 | crane -> party -> sugar -> umbra
+uncle | 3 | crane -> mince -> uncle
+uncut | 3 | crane -> lunch -> uncut
+under | 3 | crane -> liner -> under
+undid | 4 | crane -> minty -> unzip -> undid
+undue | 4 | crane -> singe -> noble -> undue
+unfed | 4 | crane -> women -> inlet -> unfed
+unfit | 4 | crane -> minty -> unlit -> unfit
+unify | 4 | crane -> minty -> noisy -> unify
+union | 4 | crane -> minty -> unzip -> union
+unite | 3 | crane -> singe -> unite
+unity | 3 | crane -> minty -> unity
+unlit | 3 | crane -> minty -> unlit
+unmet | 3 | crane -> women -> unmet
+unset | 4 | crane -> women -> inlet -> unset
+untie | 4 | crane -> singe -> unite -> untie
+until | 4 | crane -> minty -> unlit -> until
+unwed | 4 | crane -> women -> sinew -> unwed
+unzip | 3 | crane -> minty -> unzip
+upper | 6 | crane -> sower -> filer -> tuber -> udder -> upper
+upset | 3 | crane -> spiel -> upset
+urban | 3 | crane -> groan -> urban
+urine | 4 | crane -> prone -> brine -> urine
+usage | 4 | crane -> slate -> phase -> usage
+usher | 4 | crane -> sower -> miser -> usher
+using | 3 | crane -> sling -> using
+usual | 3 | crane -> salty -> usual
+usurp | 4 | crane -> forty -> shirk -> usurp
+utile | 4 | crane -> slide -> guile -> utile
+utter | 5 | crane -> sower -> filer -> tuber -> utter
+vague | 5 | crane -> maple -> baste -> gauze -> vague
+valet | 4 | crane -> steal -> delta -> valet
+valid | 3 | crane -> salty -> valid
+valor | 4 | crane -> party -> labor -> valor
+value | 4 | crane -> maple -> halve -> value
+valve | 5 | crane -> maple -> halve -> salve -> valve
+vapid | 3 | crane -> salty -> vapid
+vapor | 4 | crane -> party -> rapid -> vapor
+vault | 4 | crane -> salty -> fault -> vault
+vaunt | 6 | crane -> gaunt -> daunt -> haunt -> jaunt -> vaunt
+vegan | 4 | crane -> taken -> began -> vegan
+venom | 3 | crane -> women -> venom
+venue | 3 | crane -> singe -> venue
+verge | 6 | crane -> surge -> forge -> dirge -> merge -> verge
+verse | 5 | crane -> surge -> horse -> terse -> verse
+verso | 3 | crane -> sower -> verso
+verve | 5 | crane -> surge -> forte -> eerie -> verve
+vicar | 3 | crane -> scram -> vicar
+video | 3 | crane -> spiel -> video
+vigil | 4 | crane -> silky -> light -> vigil
+vigor | 3 | crane -> forty -> vigor
+villa | 4 | crane -> salty -> aglow -> villa
+vinyl | 3 | crane -> minty -> vinyl
+viola | 4 | crane -> salty -> afoul -> viola
+viper | 4 | crane -> sower -> filer -> viper
+viral | 4 | crane -> party -> moral -> viral
+virus | 4 | crane -> forty -> shrug -> virus
+visit | 4 | crane -> silky -> midst -> visit
+visor | 4 | crane -> forty -> vigor -> visor
+vista | 3 | crane -> salty -> vista
+vital | 5 | crane -> salty -> bloat -> tidal -> vital
+vivid | 4 | crane -> silky -> wight -> vivid
+vixen | 4 | crane -> women -> given -> vixen
+vocal | 4 | crane -> match -> focal -> vocal
+vodka | 4 | crane -> salty -> avoid -> vodka
+vogue | 4 | crane -> slide -> quote -> vogue
+voice | 5 | crane -> spice -> juice -> twice -> voice
+voila | 4 | crane -> salty -> afoul -> voila
+vomit | 5 | crane -> silky -> opium -> motif -> vomit
+voter | 4 | crane -> sower -> hover -> voter
+vouch | 4 | crane -> dutch -> pouch -> vouch
+vowel | 6 | crane -> spiel -> bowel -> dowel -> towel -> vowel
+vying | 5 | crane -> sling -> dying -> tying -> vying
+wacky | 4 | crane -> match -> basic -> wacky
+wafer | 4 | crane -> later -> gayer -> wafer
+wager | 4 | crane -> later -> gayer -> wager
+wagon | 3 | crane -> tangy -> wagon
+waist | 3 | crane -> salty -> waist
+waive | 5 | crane -> maple -> baste -> gauze -> waive
+waltz | 3 | crane -> salty -> waltz
+warty | 3 | crane -> party -> warty
+waste | 5 | crane -> maple -> baste -> haste -> waste
+watch | 6 | crane -> match -> batch -> latch -> patch -> watch
+water | 4 | crane -> later -> hater -> water
+waver | 5 | crane -> later -> gayer -> wafer -> waver
+waxen | 5 | crane -> taken -> haven -> laden -> waxen
+weary | 3 | crane -> teary -> weary
+weave | 6 | crane -> slate -> image -> quake -> heave -> weave
+wedge | 6 | crane -> slide -> budge -> dodge -> hedge -> wedge
+weedy | 5 | crane -> spiel -> hefty -> geeky -> weedy
+weigh | 4 | crane -> spiel -> deity -> weigh
+weird | 3 | crane -> sower -> weird
+welch | 3 | crane -> belch -> welch
+welsh | 4 | crane -> spiel -> flesh -> welsh
+wench | 3 | crane -> bench -> wench
+whack | 4 | crane -> slack -> quack -> whack
+whale | 3 | crane -> slate -> whale
+wharf | 3 | crane -> shard -> wharf
+wheat | 4 | crane -> steal -> tweak -> wheat
+wheel | 4 | crane -> spiel -> bowel -> wheel
+whelp | 3 | crane -> spiel -> whelp
+where | 5 | crane -> surge -> fibre -> there -> where
+which | 4 | crane -> dutch -> pooch -> which
+whiff | 5 | crane -> silky -> opium -> thigh -> whiff
+while | 4 | crane -> slide -> guile -> while
+whine | 3 | crane -> shine -> whine
+whiny | 4 | crane -> sling -> joint -> whiny
+whirl | 4 | crane -> forty -> shirk -> whirl
+whisk | 3 | crane -> silky -> whisk
+white | 4 | crane -> slide -> quite -> white
+whole | 4 | crane -> slide -> bugle -> whole
+whoop | 4 | crane -> silky -> mouth -> whoop
+whose | 5 | crane -> slide -> mouse -> those -> whose
+widen | 3 | crane -> women -> widen
+wider | 3 | crane -> sower -> wider
+widow | 4 | crane -> silky -> wight -> widow
+width | 4 | crane -> silky -> wight -> width
+wield | 4 | crane -> spiel -> field -> wield
+wight | 3 | crane -> silky -> wight
+willy | 7 | crane -> silky -> filmy -> billy -> dilly -> hilly -> willy
+wimpy | 4 | crane -> silky -> pithy -> wimpy
+wince | 4 | crane -> mince -> since -> wince
+winch | 5 | crane -> lunch -> finch -> pinch -> winch
+windy | 5 | crane -> minty -> pinky -> dingy -> windy
+wiser | 3 | crane -> sower -> wiser
+wispy | 4 | crane -> silky -> gipsy -> wispy
+witch | 4 | crane -> dutch -> pitch -> witch
+witty | 6 | crane -> silky -> pithy -> bitty -> ditty -> witty
+woken | 3 | crane -> women -> woken
+woman | 5 | crane -> tangy -> admin -> human -> woman
+women | 2 | crane -> women
+woody | 4 | crane -> silky -> howdy -> woody
+wooer | 3 | crane -> sower -> wooer
+wooly | 6 | crane -> silky -> godly -> hotly -> lowly -> wooly
+woozy | 4 | crane -> silky -> howdy -> woozy
+wordy | 3 | crane -> forty -> wordy
+world | 4 | crane -> forty -> morph -> world
+worry | 4 | crane -> forty -> wordy -> worry
+worse | 4 | crane -> surge -> horse -> worse
+worst | 4 | crane -> forty -> torus -> worst
+worth | 3 | crane -> forty -> worth
+would | 4 | crane -> silky -> flout -> would
+wound | 8 | crane -> sling -> bound -> found -> hound -> mound -> pound -> wound
+woven | 4 | crane -> women -> woken -> woven
+wrack | 3 | crane -> track -> wrack
+wrath | 4 | crane -> trail -> draft -> wrath
+wreak | 5 | crane -> tread -> break -> freak -> wreak
+wreck | 2 | crane -> wreck
+wrest | 3 | crane -> fried -> wrest
+wring | 3 | crane -> bring -> wring
+wrist | 3 | crane -> frost -> wrist
+write | 4 | crane -> prove -> tribe -> write
+wrong | 3 | crane -> bring -> wrong
+wrote | 5 | crane -> prove -> broke -> froze -> wrote
+wrung | 4 | crane -> bring -> wrong -> wrung
+wryly | 5 | crane -> frost -> grimy -> dryly -> wryly
+yacht | 3 | crane -> match -> yacht
+yearn | 3 | crane -> learn -> yearn
+yeast | 5 | crane -> least -> beast -> feast -> yeast
+yield | 5 | crane -> spiel -> field -> wield -> yield
+young | 4 | crane -> sling -> thong -> young
+youth | 3 | crane -> silky -> youth
+zebra | 4 | crane -> later -> rehab -> zebra
+zesty | 4 | crane -> spiel -> guest -> zesty
+zonal | 4 | crane -> tangy -> final -> zonal
